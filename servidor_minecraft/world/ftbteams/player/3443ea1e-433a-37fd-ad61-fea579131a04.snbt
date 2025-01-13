@@ -1,0 +1,15 @@
+{
+	id: "3443ea1e-433a-37fd-ad61-fea579131a04"
+	type: "player"
+	player_name: "Nicolsita_XD"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Nicolsita_XD"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8D59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
