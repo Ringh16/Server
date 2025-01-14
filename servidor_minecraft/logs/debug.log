@@ -17264,3 +17264,29 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jan2025 00:31:19.600] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10738 in deceasedcraft:abyss
 [14Jan2025 00:31:19.600] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10738 in minecraft:the_nether
 [14Jan2025 00:31:19.635] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10738 in minecraft:overworld
+[14Jan2025 00:32:48.035] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Jan2025 00:32:48.085] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Jan2025 00:32:54.453] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[14Jan2025 00:32:54.453] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[14Jan2025 00:32:54.455] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[14Jan2025 00:32:54.456] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[14Jan2025 00:32:54.472] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[14Jan2025 00:32:54.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 00:32:54.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 00:36:08.235] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Jan2025 00:37:54.451] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[14Jan2025 00:37:54.453] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[14Jan2025 00:37:54.454] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[14Jan2025 00:37:54.455] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[14Jan2025 00:37:54.466] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[14Jan2025 00:37:54.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 00:37:54.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 00:38:41.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]
+[14Jan2025 00:39:28.185] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Jan2025 00:39:29.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to Nicolsita_XD]
+[14Jan2025 00:39:51.745] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[14Jan2025 00:40:54.334] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 33
+[14Jan2025 00:40:54.335] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@e48778e=InventoryMapping{i=net.minecraft.world.CompoundContainer@e48778e, c=net.minecraft.world.inventory.ChestMenu@3d89e7d5, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3d89e7d5, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3d89e7d5, b=81, e=89}}
+[14Jan2025 00:40:54.335] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@e48778e, c=net.minecraft.world.inventory.ChestMenu@3d89e7d5, b=0, e=53}
+[14Jan2025 00:41:02.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]
+[14Jan2025 00:41:10.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]
