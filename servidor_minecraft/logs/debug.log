@@ -18496,3 +18496,61 @@ java.lang.ClassCastException: class net.minecraft.world.item.AirItem cannot be c
 [14Jan2025 03:22:54.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jan2025 03:22:54.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jan2025 03:23:42.937] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1334389, l='ServerLevel[world]', x=-2503.50, y=58.00, z=-909.50]
+[14Jan2025 03:24:51.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> zzz
+[14Jan2025 03:25:09.479] [IO-Worker-319/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-324
+[14Jan2025 03:25:09.479] [IO-Worker-319/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-325
+[14Jan2025 03:25:09.479] [IO-Worker-321/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-326
+[14Jan2025 03:25:11.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :mlembig:
+[14Jan2025 03:25:15.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :scyes::scyes::scyes:
+[14Jan2025 03:25:18.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :catjam::catjam::catjam:
+[14Jan2025 03:25:20.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :bongocat::bongocat::bongocat:
+[14Jan2025 03:25:27.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :blobstabby::blobstabby::blobstabby:
+[14Jan2025 03:25:35.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :blobban::blobban::blobban:
+[14Jan2025 03:25:39.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :blobreach::blobreach::blobreach:
+[14Jan2025 03:25:41.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :blobderpy::blobderpy::blobderpy:
+[14Jan2025 03:25:45.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :peped::peped::peped:
+[14Jan2025 03:26:09.035] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Jan2025 03:26:54.729] [IO-Worker-321/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-327
+[14Jan2025 03:27:43.946] [Server thread/INFO] [sereneseasons/]: Season time skipped by 905 in lostcities:lostcity
+[14Jan2025 03:27:43.946] [Server thread/INFO] [sereneseasons/]: Season time skipped by 905 in minecraft:the_end
+[14Jan2025 03:27:43.947] [Server thread/INFO] [sereneseasons/]: Season time skipped by 905 in deceasedcraft:abyss
+[14Jan2025 03:27:43.947] [Server thread/INFO] [sereneseasons/]: Season time skipped by 905 in minecraft:the_nether
+[14Jan2025 03:27:43.985] [Server thread/INFO] [sereneseasons/]: Season time skipped by 905 in minecraft:overworld
+[14Jan2025 03:27:54.451] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-328
+[14Jan2025 03:27:54.451] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-329
+[14Jan2025 03:27:54.457] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-330
+[14Jan2025 03:27:54.458] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-332
+[14Jan2025 03:27:54.458] [IO-Worker-327/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-331
+[14Jan2025 03:27:54.458] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-333
+[14Jan2025 03:27:54.459] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-334
+[14Jan2025 03:27:54.459] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-335
+[14Jan2025 03:27:54.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 03:27:54.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 03:28:18.861] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[14Jan2025 03:28:18.861] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@320b2fc5, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@320b2fc5, b=81, e=89}, net.minecraft.world.CompoundContainer@6e2e4183=InventoryMapping{i=net.minecraft.world.CompoundContainer@6e2e4183, c=net.minecraft.world.inventory.ChestMenu@320b2fc5, b=0, e=53}}
+[14Jan2025 03:28:18.861] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6e2e4183, c=net.minecraft.world.inventory.ChestMenu@320b2fc5, b=0, e=53}
+[14Jan2025 03:29:25.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Gave 128    [Torch] to Nicolsita_XD]
+[14Jan2025 03:29:29.035] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Jan2025 03:29:40.107] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 20000 max radius
+[14Jan2025 03:29:41.063] [Server thread/INFO] [naturescompass/]: Search failed: 11112 radius, 50001 samples
+[14Jan2025 03:30:04.254] [IO-Worker-335/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-336
+[14Jan2025 03:31:50.346] [IO-Worker-334/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-337
+[14Jan2025 03:32:04.711] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 43
+[14Jan2025 03:32:04.711] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@78ae2a76, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@78ae2a76, b=81, e=89}, net.minecraft.world.CompoundContainer@1eaf2662=InventoryMapping{i=net.minecraft.world.CompoundContainer@1eaf2662, c=net.minecraft.world.inventory.ChestMenu@78ae2a76, b=0, e=53}}
+[14Jan2025 03:32:04.711] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@1eaf2662, c=net.minecraft.world.inventory.ChestMenu@78ae2a76, b=0, e=53}
+[14Jan2025 03:32:05.500] [IO-Worker-335/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-338
+[14Jan2025 03:32:36.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to -2546.500000, 86.500000, -151.500000]
+[14Jan2025 03:32:47.346] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2377, y=-41, z=66}
+[14Jan2025 03:32:47.347] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2376, y=-41, z=66}
+[14Jan2025 03:32:48.935] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Jan2025 03:32:48.985] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Jan2025 03:32:54.456] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-339
+[14Jan2025 03:32:54.457] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-340
+[14Jan2025 03:32:54.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 03:32:54.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 03:33:00.150] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2372, y=21, z=112}
+[14Jan2025 03:33:07.283] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2330, y=-53, z=174}
+[14Jan2025 03:33:07.283] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2330, y=-53, z=175}
+[14Jan2025 03:33:16.790] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2772, y=-22, z=-81}
+[14Jan2025 03:33:16.791] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2770, y=-22, z=-82}
+[14Jan2025 03:33:16.807] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2772, y=-22, z=-80}

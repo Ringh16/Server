@@ -1338,3 +1338,30 @@ java.lang.ClassCastException: class net.minecraft.world.item.AirItem cannot be c
 [14Jan2025 03:15:39.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Oiled up and ready to go]
 [14Jan2025 03:17:46.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Time to Tinker]
 [14Jan2025 03:23:42.937] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1334389, l='ServerLevel[world]', x=-2503.50, y=58.00, z=-909.50]
+[14Jan2025 03:24:51.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> zzz
+[14Jan2025 03:25:11.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :mlembig:
+[14Jan2025 03:25:15.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :scyes::scyes::scyes:
+[14Jan2025 03:25:18.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :catjam::catjam::catjam:
+[14Jan2025 03:25:20.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :bongocat::bongocat::bongocat:
+[14Jan2025 03:25:27.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :blobstabby::blobstabby::blobstabby:
+[14Jan2025 03:25:35.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :blobban::blobban::blobban:
+[14Jan2025 03:25:39.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :blobreach::blobreach::blobreach:
+[14Jan2025 03:25:41.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :blobderpy::blobderpy::blobderpy:
+[14Jan2025 03:25:45.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :peped::peped::peped:
+[14Jan2025 03:27:43.946] [Server thread/INFO] [sereneseasons/]: Season time skipped by 905 in lostcities:lostcity
+[14Jan2025 03:27:43.946] [Server thread/INFO] [sereneseasons/]: Season time skipped by 905 in minecraft:the_end
+[14Jan2025 03:27:43.947] [Server thread/INFO] [sereneseasons/]: Season time skipped by 905 in deceasedcraft:abyss
+[14Jan2025 03:27:43.947] [Server thread/INFO] [sereneseasons/]: Season time skipped by 905 in minecraft:the_nether
+[14Jan2025 03:27:43.985] [Server thread/INFO] [sereneseasons/]: Season time skipped by 905 in minecraft:overworld
+[14Jan2025 03:29:25.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Gave 128    [Torch] to Nicolsita_XD]
+[14Jan2025 03:29:40.107] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 20000 max radius
+[14Jan2025 03:29:41.063] [Server thread/INFO] [naturescompass/]: Search failed: 11112 radius, 50001 samples
+[14Jan2025 03:32:36.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to -2546.500000, 86.500000, -151.500000]
+[14Jan2025 03:32:47.346] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2377, y=-41, z=66}
+[14Jan2025 03:32:47.347] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2376, y=-41, z=66}
+[14Jan2025 03:33:00.150] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2372, y=21, z=112}
+[14Jan2025 03:33:07.283] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2330, y=-53, z=174}
+[14Jan2025 03:33:07.283] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2330, y=-53, z=175}
+[14Jan2025 03:33:16.790] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2772, y=-22, z=-81}
+[14Jan2025 03:33:16.791] [Worker-Main23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2770, y=-22, z=-82}
+[14Jan2025 03:33:16.807] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2772, y=-22, z=-80}
