@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-01-14 01:05:34 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-21 01:13:43 +0000"
@@ -100,6 +106,12 @@
   "create:copper": {
     "criteria": {
       "0": "2024-12-05 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-01-14 01:07:23 +0000"
     },
     "done": true
   },
@@ -579,6 +591,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-11-21 01:25:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-01-14 01:03:35 +0000"
     },
     "done": true
   },
