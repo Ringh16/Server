@@ -1087,3 +1087,14 @@
 [14Jan2025 01:29:03.744] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4715 in deceasedcraft:abyss
 [14Jan2025 01:29:03.744] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4715 in minecraft:the_nether
 [14Jan2025 01:29:03.785] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4715 in minecraft:overworld
+[14Jan2025 01:35:10.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Gave 6    [Slime Block] to xtralexxD]
+[14Jan2025 01:36:09.794] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[14Jan2025 01:36:09.796] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2025-01-13_21-36-09.zip"
+[14Jan2025 01:39:24.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]
+[14Jan2025 01:39:43.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD was slain by Skelewag
+[14Jan2025 01:39:44.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 01:39:44.608] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 01:39:44.612] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 01:39:44.612] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 01:39:55.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to Nicolsita_XD]
+[14Jan2025 01:40:14.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to Nicolsita_XD]
