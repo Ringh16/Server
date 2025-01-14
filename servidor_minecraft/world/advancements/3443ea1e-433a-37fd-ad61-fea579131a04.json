@@ -181,6 +181,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-01-14 02:53:31 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-21 01:13:54 +0000"
@@ -202,6 +208,12 @@
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2024-12-04 22:01:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2025-01-14 02:53:19 +0000"
     },
     "done": true
   },
@@ -564,6 +576,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-21 01:13:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2025-01-14 02:53:19 +0000"
     },
     "done": true
   },
