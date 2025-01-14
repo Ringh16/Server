@@ -1061,3 +1061,10 @@
 [14Jan2025 00:42:19.347] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10806 in minecraft:the_nether
 [14Jan2025 00:42:19.385] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10806 in minecraft:overworld
 [14Jan2025 00:52:10.487] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/214782, l='ServerLevel[world]', x=-2503.50, y=58.00, z=-916.50]
+[14Jan2025 00:53:58.787] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/228073, l='ServerLevel[world]', x=-2503.50, y=54.00, z=-909.50]
+[14Jan2025 00:57:23.587] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/252520, l='ServerLevel[world]', x=-2502.50, y=58.00, z=-908.50]
+[14Jan2025 00:58:51.351] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4161 in lostcities:lostcity
+[14Jan2025 00:58:51.352] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4161 in minecraft:the_end
+[14Jan2025 00:58:51.353] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4161 in deceasedcraft:abyss
+[14Jan2025 00:58:51.353] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4161 in minecraft:the_nether
+[14Jan2025 00:58:51.385] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4161 in minecraft:overworld
