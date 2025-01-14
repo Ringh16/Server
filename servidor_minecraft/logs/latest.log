@@ -1335,3 +1335,6 @@ java.lang.ClassCastException: class net.minecraft.world.item.AirItem cannot be c
 [14Jan2025 03:08:29.146] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1762 in minecraft:the_nether
 [14Jan2025 03:08:29.185] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1762 in minecraft:overworld
 [14Jan2025 03:13:24.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Don't drink this...]
+[14Jan2025 03:15:39.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Oiled up and ready to go]
+[14Jan2025 03:17:46.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Time to Tinker]
+[14Jan2025 03:23:42.937] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1334389, l='ServerLevel[world]', x=-2503.50, y=58.00, z=-909.50]
