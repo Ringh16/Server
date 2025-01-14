@@ -1077,3 +1077,13 @@
 [14Jan2025 01:12:59.450] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7039 in minecraft:the_nether
 [14Jan2025 01:12:59.485] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7039 in minecraft:overworld
 [14Jan2025 01:15:23.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]
+[14Jan2025 01:24:56.387] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/457123, l='ServerLevel[world]', x=-2502.50, y=58.00, z=-908.50]
+[14Jan2025 01:27:14.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> dormir
+[14Jan2025 01:27:16.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> dormir
+[14Jan2025 01:27:39.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :blobmas::blobmas::blobmas:
+[14Jan2025 01:29:02.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :blobmas::blobmas::blobmas:
+[14Jan2025 01:29:03.743] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4715 in lostcities:lostcity
+[14Jan2025 01:29:03.743] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4715 in minecraft:the_end
+[14Jan2025 01:29:03.744] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4715 in deceasedcraft:abyss
+[14Jan2025 01:29:03.744] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4715 in minecraft:the_nether
+[14Jan2025 01:29:03.785] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4715 in minecraft:overworld
