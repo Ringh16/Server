@@ -1071,3 +1071,9 @@
 [14Jan2025 01:03:35.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [HAMMAH!]
 [14Jan2025 01:04:06.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD has made the advancement [HAMMAH!]
 [14Jan2025 01:10:58.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/354447, l='ServerLevel[world]', x=-2502.50, y=57.00, z=-910.50]
+[14Jan2025 01:12:59.449] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7039 in lostcities:lostcity
+[14Jan2025 01:12:59.449] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7039 in minecraft:the_end
+[14Jan2025 01:12:59.450] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7039 in deceasedcraft:abyss
+[14Jan2025 01:12:59.450] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7039 in minecraft:the_nether
+[14Jan2025 01:12:59.485] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7039 in minecraft:overworld
+[14Jan2025 01:15:23.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]

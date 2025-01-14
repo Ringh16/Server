@@ -17463,3 +17463,69 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jan2025 01:10:28.107] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@73b05fbb, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@73b05fbb, b=81, e=89}, net.minecraft.world.CompoundContainer@24fd7ab2=InventoryMapping{i=net.minecraft.world.CompoundContainer@24fd7ab2, c=net.minecraft.world.inventory.ChestMenu@73b05fbb, b=0, e=53}}
 [14Jan2025 01:10:28.107] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@24fd7ab2, c=net.minecraft.world.inventory.ChestMenu@73b05fbb, b=0, e=53}
 [14Jan2025 01:10:58.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/354447, l='ServerLevel[world]', x=-2502.50, y=57.00, z=-910.50]
+[14Jan2025 01:12:48.235] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Jan2025 01:12:48.285] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Jan2025 01:12:54.450] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[14Jan2025 01:12:54.450] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[14Jan2025 01:12:54.451] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[14Jan2025 01:12:54.451] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[14Jan2025 01:12:54.459] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[14Jan2025 01:12:54.460] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[14Jan2025 01:12:54.460] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[14Jan2025 01:12:54.460] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[14Jan2025 01:12:54.461] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[14Jan2025 01:12:54.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 01:12:54.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 01:12:59.449] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7039 in lostcities:lostcity
+[14Jan2025 01:12:59.449] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7039 in minecraft:the_end
+[14Jan2025 01:12:59.450] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7039 in deceasedcraft:abyss
+[14Jan2025 01:12:59.450] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7039 in minecraft:the_nether
+[14Jan2025 01:12:59.485] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7039 in minecraft:overworld
+[14Jan2025 01:14:19.428] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 49
+[14Jan2025 01:14:19.428] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@3519de5f=InventoryMapping{i=net.minecraft.world.CompoundContainer@3519de5f, c=net.minecraft.world.inventory.ChestMenu@6273db77, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6273db77, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6273db77, b=81, e=89}}
+[14Jan2025 01:14:19.428] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3519de5f, c=net.minecraft.world.inventory.ChestMenu@6273db77, b=0, e=53}
+[14Jan2025 01:14:23.659] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[14Jan2025 01:14:23.659] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@3519de5f=InventoryMapping{i=net.minecraft.world.CompoundContainer@3519de5f, c=net.minecraft.world.inventory.ChestMenu@6273db77, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6273db77, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6273db77, b=81, e=89}}
+[14Jan2025 01:14:23.659] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3519de5f, c=net.minecraft.world.inventory.ChestMenu@6273db77, b=0, e=53}
+[14Jan2025 01:14:24.761] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 43
+[14Jan2025 01:14:24.762] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@3519de5f=InventoryMapping{i=net.minecraft.world.CompoundContainer@3519de5f, c=net.minecraft.world.inventory.ChestMenu@6273db77, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6273db77, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6273db77, b=81, e=89}}
+[14Jan2025 01:14:24.762] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3519de5f, c=net.minecraft.world.inventory.ChestMenu@6273db77, b=0, e=53}
+[14Jan2025 01:14:27.295] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[14Jan2025 01:14:27.295] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@692ce379=InventoryMapping{i=net.minecraft.world.CompoundContainer@692ce379, c=net.minecraft.world.inventory.ChestMenu@45e8149b, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@45e8149b, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@45e8149b, b=81, e=89}}
+[14Jan2025 01:14:27.295] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@692ce379, c=net.minecraft.world.inventory.ChestMenu@45e8149b, b=0, e=53}
+[14Jan2025 01:14:33.396] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 41
+[14Jan2025 01:14:33.397] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@692ce379=InventoryMapping{i=net.minecraft.world.CompoundContainer@692ce379, c=net.minecraft.world.inventory.ChestMenu@45e8149b, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@45e8149b, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@45e8149b, b=81, e=89}}
+[14Jan2025 01:14:33.397] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@692ce379, c=net.minecraft.world.inventory.ChestMenu@45e8149b, b=0, e=53}
+[14Jan2025 01:14:41.617] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 40
+[14Jan2025 01:14:41.617] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@12adefeb=InventoryMapping{i=net.minecraft.world.CompoundContainer@12adefeb, c=net.minecraft.world.inventory.ChestMenu@44fd09ce, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@44fd09ce, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@44fd09ce, b=81, e=89}}
+[14Jan2025 01:14:41.617] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@12adefeb, c=net.minecraft.world.inventory.ChestMenu@44fd09ce, b=0, e=53}
+[14Jan2025 01:14:46.345] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 42
+[14Jan2025 01:14:46.346] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7919c17b, b=54, e=80}, net.minecraft.world.CompoundContainer@36e205fb=InventoryMapping{i=net.minecraft.world.CompoundContainer@36e205fb, c=net.minecraft.world.inventory.ChestMenu@7919c17b, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7919c17b, b=81, e=89}}
+[14Jan2025 01:14:46.346] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@36e205fb, c=net.minecraft.world.inventory.ChestMenu@7919c17b, b=0, e=53}
+[14Jan2025 01:14:52.460] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 31
+[14Jan2025 01:14:52.460] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@4e5799d7=InventoryMapping{i=net.minecraft.world.CompoundContainer@4e5799d7, c=net.minecraft.world.inventory.ChestMenu@7dea2380, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7dea2380, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7dea2380, b=81, e=89}}
+[14Jan2025 01:14:52.460] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@4e5799d7, c=net.minecraft.world.inventory.ChestMenu@7dea2380, b=0, e=53}
+[14Jan2025 01:15:23.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]
+[14Jan2025 01:15:36.998] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 32
+[14Jan2025 01:15:36.998] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@f2c3b74=InventoryMapping{i=net.minecraft.world.CompoundContainer@f2c3b74, c=net.minecraft.world.inventory.ChestMenu@618ce6c7, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@618ce6c7, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@618ce6c7, b=81, e=89}}
+[14Jan2025 01:15:36.998] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@f2c3b74, c=net.minecraft.world.inventory.ChestMenu@618ce6c7, b=0, e=53}
+[14Jan2025 01:15:38.480] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 48
+[14Jan2025 01:15:38.480] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@f2c3b74=InventoryMapping{i=net.minecraft.world.CompoundContainer@f2c3b74, c=net.minecraft.world.inventory.ChestMenu@618ce6c7, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@618ce6c7, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@618ce6c7, b=81, e=89}}
+[14Jan2025 01:15:38.480] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@f2c3b74, c=net.minecraft.world.inventory.ChestMenu@618ce6c7, b=0, e=53}
+[14Jan2025 01:15:39.697] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 39
+[14Jan2025 01:15:39.698] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@f2c3b74=InventoryMapping{i=net.minecraft.world.CompoundContainer@f2c3b74, c=net.minecraft.world.inventory.ChestMenu@618ce6c7, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@618ce6c7, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@618ce6c7, b=81, e=89}}
+[14Jan2025 01:15:39.698] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@f2c3b74, c=net.minecraft.world.inventory.ChestMenu@618ce6c7, b=0, e=53}
+[14Jan2025 01:16:08.435] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Jan2025 01:17:54.456] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[14Jan2025 01:17:54.457] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[14Jan2025 01:17:54.458] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[14Jan2025 01:17:54.459] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[14Jan2025 01:17:54.459] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[14Jan2025 01:17:54.468] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[14Jan2025 01:17:54.468] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[14Jan2025 01:17:54.470] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[14Jan2025 01:17:54.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 01:17:54.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 01:19:28.385] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Jan2025 01:19:39.436] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[14Jan2025 01:19:39.437] [IO-Worker-97/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
