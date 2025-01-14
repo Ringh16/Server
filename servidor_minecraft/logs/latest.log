@@ -1244,3 +1244,23 @@ java.lang.ClassCastException: class net.minecraft.world.item.AirItem cannot be c
 [14Jan2025 02:13:22.255] [Server thread/INFO] [tac/]: PENDING
 [14Jan2025 02:13:22.259] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
 [14Jan2025 02:13:22.259] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:13:26.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -937.500000, 62.500000, -741.500000]
+[14Jan2025 02:13:47.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD was slain by Husk
+[14Jan2025 02:13:50.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 02:13:50.123] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 02:13:50.127] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:13:50.127] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:13:54.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Set own game mode to Creative Mode]
+[14Jan2025 02:13:57.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -934.500000, 62.500000, -742.500000]
+[14Jan2025 02:14:37.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Set the time to 1000]
+[14Jan2025 02:14:43.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Set own game mode to Survival Mode]
+[14Jan2025 02:15:01.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD was slain by Zombie
+[14Jan2025 02:15:02.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 02:15:02.410] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 02:15:02.413] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:15:02.413] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:15:05.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -930.500000, 70.500000, -750.500000]
+[14Jan2025 02:15:36.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: The difficulty has been set to Peaceful]
+[14Jan2025 02:15:48.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]
+[14Jan2025 02:17:32.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Immersive Engineering]
+[14Jan2025 02:22:02.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: The difficulty has been set to Normal]

@@ -630,6 +630,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2025-01-14 02:17:32 +0000"
+    },
+    "done": true
+  },
   "nameless_trinkets:obtain/experience_battery": {
     "criteria": {
       "experience_battery": "2024-12-05 03:41:57 +0000"
