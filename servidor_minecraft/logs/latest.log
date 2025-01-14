@@ -1098,3 +1098,61 @@
 [14Jan2025 01:39:44.612] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
 [14Jan2025 01:39:55.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to Nicolsita_XD]
 [14Jan2025 01:40:14.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to Nicolsita_XD]
+[14Jan2025 01:43:11.048] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7055 in lostcities:lostcity
+[14Jan2025 01:43:11.049] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7055 in minecraft:the_end
+[14Jan2025 01:43:11.050] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7055 in deceasedcraft:abyss
+[14Jan2025 01:43:11.050] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7055 in minecraft:the_nether
+[14Jan2025 01:43:11.085] [Server thread/INFO] [sereneseasons/]: Season time skipped by 7055 in minecraft:overworld
+[14Jan2025 01:45:09.319] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3211, y=-12, z=-660}
+[14Jan2025 01:45:13.951] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39401804
+[14Jan2025 01:45:24.404] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3301, y=-50, z=-1011}
+[14Jan2025 01:45:24.405] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3301, y=-50, z=-1010}
+[14Jan2025 01:45:30.777] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3354, y=-30, z=-857}
+[14Jan2025 01:45:30.777] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3354, y=-30, z=-858}
+[14Jan2025 01:45:36.435] [Worker-Main18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-3391, y=198, z=-849}
+[14Jan2025 01:45:36.436] [Worker-Main18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=198, z=-849}
+[14Jan2025 01:45:36.436] [Worker-Main18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=198, z=-849}
+[14Jan2025 01:45:36.436] [Worker-Main18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=198, z=-849}
+[14Jan2025 01:45:36.437] [Worker-Main18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3391, y=198, z=-849}
+[14Jan2025 01:45:36.437] [Worker-Main18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3391, y=198, z=-849}
+[14Jan2025 01:45:36.438] [Worker-Main18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3391, y=198, z=-849}
+[14Jan2025 01:45:38.017] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-3402, y=198, z=-848}
+[14Jan2025 01:45:38.018] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-3399, y=198, z=-848}
+[14Jan2025 01:45:38.019] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-3395, y=198, z=-848}
+[14Jan2025 01:45:38.019] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3395, y=198, z=-848}
+[14Jan2025 01:45:38.020] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3395, y=198, z=-848}
+[14Jan2025 01:45:38.020] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3395, y=198, z=-848}
+[14Jan2025 01:45:38.020] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-3392, y=201, z=-864}
+[14Jan2025 01:45:38.020] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=200, z=-864}
+[14Jan2025 01:45:38.020] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=200, z=-864}
+[14Jan2025 01:45:38.020] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=200, z=-864}
+[14Jan2025 01:45:38.021] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=199, z=-864}
+[14Jan2025 01:45:38.021] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=199, z=-864}
+[14Jan2025 01:45:38.021] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=199, z=-864}
+[14Jan2025 01:45:38.021] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-3392, y=198, z=-849}
+[14Jan2025 01:45:38.022] [Worker-Main6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-3393, y=198, z=-848}
+[14Jan2025 01:45:38.087] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-3393, y=199, z=-864}
+[14Jan2025 01:45:38.089] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3393, y=200, z=-864}
+[14Jan2025 01:45:38.089] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3393, y=200, z=-864}
+[14Jan2025 01:45:38.089] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3393, y=200, z=-864}
+[14Jan2025 01:45:38.090] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3394, y=199, z=-864}
+[14Jan2025 01:45:38.090] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3394, y=199, z=-864}
+[14Jan2025 01:45:38.091] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3394, y=199, z=-864}
+[14Jan2025 01:45:38.091] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=199, z=-864}
+[14Jan2025 01:45:38.091] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=199, z=-864}
+[14Jan2025 01:45:38.091] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=199, z=-864}
+[14Jan2025 01:45:38.091] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-3393, y=200, z=-864}
+[14Jan2025 01:45:38.092] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3393, y=199, z=-864}
+[14Jan2025 01:45:38.093] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3393, y=199, z=-864}
+[14Jan2025 01:45:38.094] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3393, y=199, z=-864}
+[14Jan2025 01:45:38.095] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3393, y=201, z=-864}
+[14Jan2025 01:45:38.095] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3393, y=201, z=-864}
+[14Jan2025 01:45:38.096] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3393, y=201, z=-864}
+[14Jan2025 01:45:38.096] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=200, z=-864}
+[14Jan2025 01:45:38.099] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=200, z=-864}
+[14Jan2025 01:45:38.099] [Worker-Main9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3392, y=200, z=-864}
+[14Jan2025 01:45:38.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/611760, l='ServerLevel[world]', x=-3198.50, y=52.00, z=-854.50]
+[14Jan2025 01:45:42.239] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3414, y=-26, z=-657}
+[14Jan2025 01:45:44.085] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b30c7fa
+[14Jan2025 01:48:15.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Set own game mode to Creative Mode]
+[14Jan2025 01:52:41.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has reached the goal [A Strong Breeze]

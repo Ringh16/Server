@@ -199,6 +199,12 @@
     },
     "done": true
   },
+  "create:windmill_maxed": {
+    "criteria": {
+      "0": "2025-01-14 01:52:41 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-21 01:13:43 +0000"
