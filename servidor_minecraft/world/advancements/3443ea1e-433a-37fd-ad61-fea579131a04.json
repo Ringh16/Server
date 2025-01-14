@@ -115,6 +115,12 @@
     },
     "done": true
   },
+  "cold_sweat:recipes/soulspring_lamp": {
+    "criteria": {
+      "has_item": "2025-01-14 02:23:13 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2024-11-21 01:13:54 +0000"

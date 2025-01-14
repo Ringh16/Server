@@ -211,6 +211,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2025-01-14 02:31:54 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2024-11-21 01:13:43 +0000"

@@ -18151,3 +18151,44 @@ java.lang.ClassCastException: class net.minecraft.world.item.AirItem cannot be c
 [14Jan2025 02:23:15.174] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 32
 [14Jan2025 02:23:15.174] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {noobanidus.mods.lootr.data.SpecialChestInventory@299af6df=InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@299af6df, c=net.minecraft.world.inventory.ChestMenu@157b516f, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@157b516f, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@157b516f, b=54, e=62}}
 [14Jan2025 02:23:15.174] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@157b516f, b=27, e=53}
+[14Jan2025 02:24:51.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]
+[14Jan2025 02:24:51.448] [IO-Worker-209/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-210
+[14Jan2025 02:24:51.523] [IO-Worker-209/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-211
+[14Jan2025 02:25:51.337] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/908285, l='ServerLevel[world]', x=-2503.50, y=58.00, z=-909.50]
+[14Jan2025 02:25:57.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to Nicolsita_XD]
+[14Jan2025 02:25:57.299] [IO-Worker-209/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-212
+[14Jan2025 02:26:08.735] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Jan2025 02:27:35.944] [IO-Worker-209/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-213
+[14Jan2025 02:27:35.945] [IO-Worker-212/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-214
+[14Jan2025 02:27:54.448] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-215
+[14Jan2025 02:27:54.449] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-216
+[14Jan2025 02:27:54.450] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -3] Saved.
+[14Jan2025 02:27:54.450] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-217
+[14Jan2025 02:27:54.457] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-218
+[14Jan2025 02:27:54.457] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-219
+[14Jan2025 02:27:54.457] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-220
+[14Jan2025 02:27:54.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:27:54.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 02:29:20.909] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 52
+[14Jan2025 02:29:20.910] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2bcfa367, b=54, e=80}, net.minecraft.world.CompoundContainer@6d4228d9=InventoryMapping{i=net.minecraft.world.CompoundContainer@6d4228d9, c=net.minecraft.world.inventory.ChestMenu@2bcfa367, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2bcfa367, b=81, e=89}}
+[14Jan2025 02:29:20.910] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6d4228d9, c=net.minecraft.world.inventory.ChestMenu@2bcfa367, b=0, e=53}
+[14Jan2025 02:29:28.735] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Jan2025 02:31:54.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Concentrated Carbon]
+[14Jan2025 02:32:48.635] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Jan2025 02:32:48.685] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Jan2025 02:32:52.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Gave 32    [Block of Coal] to xtralexxD]
+[14Jan2025 02:32:54.452] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-221
+[14Jan2025 02:32:54.453] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-222
+[14Jan2025 02:32:54.453] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-223
+[14Jan2025 02:32:54.454] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-224
+[14Jan2025 02:32:54.463] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-225
+[14Jan2025 02:32:54.463] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-226
+[14Jan2025 02:32:54.465] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-227
+[14Jan2025 02:32:54.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:32:54.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 02:33:45.741] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 52
+[14Jan2025 02:33:45.742] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@122ec4a3, b=54, e=80}, net.minecraft.world.CompoundContainer@6e24079d=InventoryMapping{i=net.minecraft.world.CompoundContainer@6e24079d, c=net.minecraft.world.inventory.ChestMenu@122ec4a3, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@122ec4a3, b=81, e=89}}
+[14Jan2025 02:33:45.742] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6e24079d, c=net.minecraft.world.inventory.ChestMenu@122ec4a3, b=0, e=53}
+[14Jan2025 02:33:47.848] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 52
+[14Jan2025 02:33:47.848] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@24e78420, b=54, e=80}, net.minecraft.world.CompoundContainer@504af650=InventoryMapping{i=net.minecraft.world.CompoundContainer@504af650, c=net.minecraft.world.inventory.ChestMenu@24e78420, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@24e78420, b=81, e=89}}
+[14Jan2025 02:33:47.848] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@504af650, c=net.minecraft.world.inventory.ChestMenu@24e78420, b=0, e=53}
