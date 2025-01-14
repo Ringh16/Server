@@ -1175,3 +1175,72 @@
 [14Jan2025 01:55:07.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]
 [14Jan2025 01:58:25.891] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/700402, l='ServerLevel[world]', x=-2502.50, y=58.00, z=-913.50]
 [14Jan2025 02:01:45.537] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/725014, l='ServerLevel[world]', x=-2503.50, y=56.00, z=-909.50]
+[14Jan2025 02:03:54.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/741300, l='ServerLevel[world]', x=-2218.50, y=45.00, z=-748.50]
+[14Jan2025 02:03:58.287] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/741772, l='ServerLevel[world]', x=-2215.50, y=40.00, z=-748.50]
+[14Jan2025 02:04:17.688] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/744106, l='ServerLevel[world]', x=-2220.50, y=41.00, z=-721.50]
+[14Jan2025 02:05:07.188] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/749505, l='ServerLevel[world]', x=-1735.50, y=41.00, z=-717.50]
+[14Jan2025 02:05:50.978] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1236, y=-21, z=-758}
+[14Jan2025 02:05:50.978] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1237, y=-21, z=-758}
+[14Jan2025 02:07:05.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD was impaled by Drowned
+[14Jan2025 02:07:08.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 02:07:08.127] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 02:07:08.131] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:07:08.131] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:07:12.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -1200.500000, 54.500000, -807.500000]
+[14Jan2025 02:08:49.561] [Worker-Main16/WARN] [ModernFix/]: The namespace apocalypsenow contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Jan2025 02:08:57.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Set own game mode to Creative Mode]
+[14Jan2025 02:09:07.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Set own game mode to Survival Mode]
+[14Jan2025 02:09:18.228] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-553, y=0, z=-947}
+[14Jan2025 02:12:53.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD was slain by Crawler
+[14Jan2025 02:12:53.807] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket@47595afc, suppressing error
+java.lang.ClassCastException: class net.minecraft.world.item.AirItem cannot be cast to class com.tac.guns.item.GunItem (net.minecraft.world.item.AirItem is in module minecraft@1.18.2 of loader 'TRANSFORMER' @2ecdcfe3; com.tac.guns.item.GunItem is in module tac@0.3.10-1.18.2 of loader 'TRANSFORMER' @2ecdcfe3)
+	at com.tac.guns.network.message.MessageReload.lambda$handle$1(MessageReload.java:67) ~[tac-0.3.10.1-1.18.2.jar%23207!/:0.3.10-1.18.2]
+	at net.minecraftforge.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:213) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at com.tac.guns.network.message.MessageReload.handle(MessageReload.java:50) ~[tac-0.3.10.1-1.18.2.jar%23207!/:0.3.10-1.18.2]
+	at com.tac.guns.network.message.MessageReload.handle(MessageReload.java:22) ~[tac-0.3.10.1-1.18.2.jar%23207!/:0.3.10-1.18.2]
+	at net.minecraftforge.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:115) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:115) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at net.minecraftforge.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:153) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at net.minecraftforge.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:72) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.network.NetworkInstance.dispatch(NetworkInstance.java:68) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at net.minecraftforge.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:78) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraftforge.network.NetworkHooks.onCustomPayload(NetworkHooks.java:78) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7423_(ServerGamePacketListenerImpl.java:1439) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:35) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:8) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[14Jan2025 02:12:55.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 02:12:55.078] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 02:12:55.081] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:12:55.082] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:13:00.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -938.500000, 62.500000, -741.500000]
+[14Jan2025 02:13:07.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD was slain by Crawler
+[14Jan2025 02:13:09.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 02:13:09.250] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 02:13:09.254] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:13:09.254] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:13:18.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -938.500000, 61.500000, -741.500000]
+[14Jan2025 02:13:21.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD was slain by Crawler
+[14Jan2025 02:13:22.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 02:13:22.255] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 02:13:22.259] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:13:22.259] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!

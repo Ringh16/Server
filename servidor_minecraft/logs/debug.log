@@ -17893,3 +17893,179 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jan2025 02:02:54.460] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
 [14Jan2025 02:02:54.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jan2025 02:02:54.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 02:03:54.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/741300, l='ServerLevel[world]', x=-2218.50, y=45.00, z=-748.50]
+[14Jan2025 02:03:58.287] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/741772, l='ServerLevel[world]', x=-2215.50, y=40.00, z=-748.50]
+[14Jan2025 02:04:17.688] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/744106, l='ServerLevel[world]', x=-2220.50, y=41.00, z=-721.50]
+[14Jan2025 02:05:07.188] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/749505, l='ServerLevel[world]', x=-1735.50, y=41.00, z=-717.50]
+[14Jan2025 02:05:40.643] [IO-Worker-175/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-180
+[14Jan2025 02:05:45.554] [Worker-Main3/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-3, -3]
+[14Jan2025 02:05:50.978] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1236, y=-21, z=-758}
+[14Jan2025 02:05:50.978] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1237, y=-21, z=-758}
+[14Jan2025 02:06:08.654] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Jan2025 02:06:46.757] [Worker-Main108/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, -3]
+[14Jan2025 02:07:05.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD was impaled by Drowned
+[14Jan2025 02:07:06.647] [IO-Worker-178/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-181
+[14Jan2025 02:07:06.691] [IO-Worker-176/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
+[14Jan2025 02:07:06.691] [IO-Worker-175/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-183
+[14Jan2025 02:07:08.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 02:07:08.127] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 02:07:08.131] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:07:08.131] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:07:12.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -1200.500000, 54.500000, -807.500000]
+[14Jan2025 02:07:44.815] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa1
+[14Jan2025 02:07:44.821] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa2
+[14Jan2025 02:07:44.823] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruinas1
+[14Jan2025 02:07:44.824] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower1
+[14Jan2025 02:07:44.825] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa3
+[14Jan2025 02:07:44.827] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gasstation
+[14Jan2025 02:07:44.829] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store1
+[14Jan2025 02:07:44.832] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store2
+[14Jan2025 02:07:44.851] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store3
+[14Jan2025 02:07:44.859] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa4
+[14Jan2025 02:07:44.864] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa5
+[14Jan2025 02:07:44.903] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa6
+[14Jan2025 02:07:44.909] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa7
+[14Jan2025 02:07:44.913] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa9
+[14Jan2025 02:07:44.918] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina3
+[14Jan2025 02:07:44.920] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina4
+[14Jan2025 02:07:44.921] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina5
+[14Jan2025 02:07:44.923] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina6
+[14Jan2025 02:07:44.926] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina7
+[14Jan2025 02:07:44.930] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina8
+[14Jan2025 02:07:44.937] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina9
+[14Jan2025 02:07:44.942] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina10
+[14Jan2025 02:07:44.945] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina11
+[14Jan2025 02:07:44.948] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina12
+[14Jan2025 02:07:44.951] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina13
+[14Jan2025 02:07:44.953] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina14
+[14Jan2025 02:07:44.960] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina15
+[14Jan2025 02:07:44.972] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina16
+[14Jan2025 02:07:45.042] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store5
+[14Jan2025 02:07:45.078] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farm
+[14Jan2025 02:07:45.110] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:hospital
+[14Jan2025 02:07:45.174] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militaryairport
+[14Jan2025 02:07:45.214] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:refugecamp
+[14Jan2025 02:07:45.276] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarybase
+[14Jan2025 02:07:45.309] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:factory
+[14Jan2025 02:07:45.343] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:firefighter
+[14Jan2025 02:07:45.431] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:prision
+[14Jan2025 02:07:45.508] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:bases
+[14Jan2025 02:07:45.541] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:baselooters
+[14Jan2025 02:07:45.552] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farmacia
+[14Jan2025 02:07:45.610] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acidentedeaviao
+[14Jan2025 02:07:45.635] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acampamentinho
+[14Jan2025 02:07:45.641] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:policestation1
+[14Jan2025 02:07:45.655] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:policestation2
+[14Jan2025 02:07:45.661] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:medic1
+[14Jan2025 02:07:45.663] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:17
+[14Jan2025 02:07:45.665] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:1234
+[14Jan2025 02:07:45.669] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower3
+[14Jan2025 02:07:45.673] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:campoderefugiados2
+[14Jan2025 02:07:45.678] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina18
+[14Jan2025 02:07:45.689] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina19
+[14Jan2025 02:07:45.698] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarycamp2
+[14Jan2025 02:07:45.703] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa10
+[14Jan2025 02:07:45.715] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:construction1
+[14Jan2025 02:07:45.723] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gunstore
+[14Jan2025 02:07:45.778] [Worker-Main18/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:city1
+[14Jan2025 02:07:54.453] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-4, -2] Saved.
+[14Jan2025 02:07:54.454] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-4, -3] Saved.
+[14Jan2025 02:07:54.455] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[14Jan2025 02:07:54.455] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-184
+[14Jan2025 02:07:54.455] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -3] Saved.
+[14Jan2025 02:07:54.455] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-185
+[14Jan2025 02:07:54.456] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -2] Saved.
+[14Jan2025 02:07:54.456] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-186
+[14Jan2025 02:07:54.459] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -3] Saved.
+[14Jan2025 02:07:54.459] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -2] Saved.
+[14Jan2025 02:07:54.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:07:54.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 02:08:01.423] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 34
+[14Jan2025 02:08:01.423] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.inventory.CraftingContainer@3670a770=InventoryMapping{i=net.minecraft.world.inventory.CraftingContainer@3670a770, c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@6b7fbbeb, b=1, e=4}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@6b7fbbeb, b=9, e=35}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@6b7fbbeb, b=46, e=53}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@6b7fbbeb, b=45, e=45}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@6b7fbbeb, b=36, e=44}, net.minecraft.world.inventory.ResultContainer@7bb1b06e=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@7bb1b06e, c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@6b7fbbeb, b=0, e=0}}
+[14Jan2025 02:08:01.423] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@6b7fbbeb, b=9, e=35}
+[14Jan2025 02:08:14.529] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[14Jan2025 02:08:14.529] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@196cf3bb=InventoryMapping{i=net.minecraft.world.CompoundContainer@196cf3bb, c=net.minecraft.world.inventory.ChestMenu@1ce3a188, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1ce3a188, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1ce3a188, b=81, e=89}}
+[14Jan2025 02:08:14.529] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@196cf3bb, c=net.minecraft.world.inventory.ChestMenu@1ce3a188, b=0, e=53}
+[14Jan2025 02:08:29.088] [Worker-Main14/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa8
+[14Jan2025 02:08:31.164] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[14Jan2025 02:08:31.164] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@515d96f9=InventoryMapping{i=net.minecraft.world.CompoundContainer@515d96f9, c=net.minecraft.world.inventory.ChestMenu@136f2d56, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@136f2d56, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@136f2d56, b=81, e=89}}
+[14Jan2025 02:08:31.164] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@515d96f9, c=net.minecraft.world.inventory.ChestMenu@136f2d56, b=0, e=53}
+[14Jan2025 02:08:43.158] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 33
+[14Jan2025 02:08:43.159] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.inventory.ResultContainer@6829fd99=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@6829fd99, c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@18f20e15, b=0, e=0}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@18f20e15, b=9, e=35}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@18f20e15, b=46, e=53}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@18f20e15, b=45, e=45}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@18f20e15, b=36, e=44}, net.minecraft.world.inventory.CraftingContainer@6aef2623=InventoryMapping{i=net.minecraft.world.inventory.CraftingContainer@6aef2623, c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@18f20e15, b=1, e=4}}
+[14Jan2025 02:08:43.159] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainer@18f20e15, b=9, e=35}
+[14Jan2025 02:08:49.561] [Worker-Main16/WARN] [ModernFix/]: The namespace apocalypsenow contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Jan2025 02:08:49.561] [Worker-Main16/DEBUG] [ModernFix/]: Structure apocalypsenow:camp1 is being run through DFU (hash beb81a2238b12b6c3953c198ba414356493c286cc8bb89cd480ad9251a985d10), this will cause launch time delays
+[14Jan2025 02:08:50.290] [Worker-Main16/DEBUG] [ModernFix/]: Structure apocalypsenow:camp2 is being run through DFU (hash 701f3397d255d9365533a9b1171908874e5bb3b429233a6e474af84d1f3b31be), this will cause launch time delays
+[14Jan2025 02:08:50.522] [Worker-Main16/DEBUG] [ModernFix/]: Structure apocalypsenow:cabine is being run through DFU (hash 82eb8eb9bcd0f655aba7777929f32371fe1476daa0f0549d4acab0855621311b), this will cause launch time delays
+[14Jan2025 02:08:57.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Set own game mode to Creative Mode]
+[14Jan2025 02:09:07.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Set own game mode to Survival Mode]
+[14Jan2025 02:09:16.715] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 33
+[14Jan2025 02:09:16.715] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@32edcd0a, b=54, e=80}, net.minecraft.world.CompoundContainer@563ebc27=InventoryMapping{i=net.minecraft.world.CompoundContainer@563ebc27, c=net.minecraft.world.inventory.ChestMenu@32edcd0a, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@32edcd0a, b=81, e=89}}
+[14Jan2025 02:09:16.715] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@563ebc27, c=net.minecraft.world.inventory.ChestMenu@32edcd0a, b=0, e=53}
+[14Jan2025 02:09:18.228] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-553, y=0, z=-947}
+[14Jan2025 02:09:28.635] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Jan2025 02:11:02.685] [IO-Worker-176/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[14Jan2025 02:12:20.071] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[14Jan2025 02:12:48.535] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Jan2025 02:12:48.585] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Jan2025 02:12:53.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD was slain by Crawler
+[14Jan2025 02:12:53.807] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket@47595afc, suppressing error
+java.lang.ClassCastException: class net.minecraft.world.item.AirItem cannot be cast to class com.tac.guns.item.GunItem (net.minecraft.world.item.AirItem is in module minecraft@1.18.2 of loader 'TRANSFORMER' @2ecdcfe3; com.tac.guns.item.GunItem is in module tac@0.3.10-1.18.2 of loader 'TRANSFORMER' @2ecdcfe3)
+	at com.tac.guns.network.message.MessageReload.lambda$handle$1(MessageReload.java:67) ~[tac-0.3.10.1-1.18.2.jar%23207!/:0.3.10-1.18.2]
+	at net.minecraftforge.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:213) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at com.tac.guns.network.message.MessageReload.handle(MessageReload.java:50) ~[tac-0.3.10.1-1.18.2.jar%23207!/:0.3.10-1.18.2]
+	at com.tac.guns.network.message.MessageReload.handle(MessageReload.java:22) ~[tac-0.3.10.1-1.18.2.jar%23207!/:0.3.10-1.18.2]
+	at net.minecraftforge.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:115) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:115) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at net.minecraftforge.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:153) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at net.minecraftforge.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:72) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.network.NetworkInstance.dispatch(NetworkInstance.java:68) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at net.minecraftforge.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:78) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraftforge.network.NetworkHooks.onCustomPayload(NetworkHooks.java:78) ~[forge-1.18.2-40.2.4-universal.jar%23234!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7423_(ServerGamePacketListenerImpl.java:1439) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:35) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.network.protocol.game.ServerboundCustomPayloadPacket.m_5797_(ServerboundCustomPayloadPacket.java:8) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:762) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23229!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[14Jan2025 02:12:54.455] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -3] Saved.
+[14Jan2025 02:12:54.455] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[14Jan2025 02:12:54.456] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -2] Saved.
+[14Jan2025 02:12:54.456] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-190
+[14Jan2025 02:12:54.458] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -3] Saved.
+[14Jan2025 02:12:54.469] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
+[14Jan2025 02:12:54.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:12:54.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 02:12:55.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 02:12:55.078] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 02:12:55.081] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:12:55.082] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:13:00.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -938.500000, 62.500000, -741.500000]
+[14Jan2025 02:13:07.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD was slain by Crawler
+[14Jan2025 02:13:09.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 02:13:09.250] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 02:13:09.254] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:13:09.254] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:13:18.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -938.500000, 61.500000, -741.500000]
+[14Jan2025 02:13:21.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD was slain by Crawler
+[14Jan2025 02:13:22.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 02:13:22.255] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 02:13:22.259] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:13:22.259] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!

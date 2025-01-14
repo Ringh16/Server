@@ -497,11 +497,13 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2024-12-05 01:50:42 +0000",
+      "clover_patch": "2025-01-14 02:09:14 +0000",
       "field": "2024-11-21 01:13:54 +0000",
       "coniferous_forest": "2024-11-21 02:36:48 +0000",
       "forested_field": "2024-11-21 01:33:28 +0000",
       "cherry_blossom_grove": "2025-01-14 01:45:43 +0000",
-      "fir_clearing": "2024-11-21 02:50:27 +0000"
+      "fir_clearing": "2024-11-21 02:50:27 +0000",
+      "grassland": "2025-01-14 02:10:38 +0000"
     },
     "done": false
   },
@@ -530,6 +532,7 @@
       "minecraft:cold_ocean": "2024-11-21 02:55:02 +0000",
       "minecraft:forest": "2024-11-21 02:46:49 +0000",
       "minecraft:ocean": "2024-11-21 02:55:51 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-14 02:09:07 +0000",
       "minecraft:plains": "2024-11-21 02:50:11 +0000"
     },
     "done": false
