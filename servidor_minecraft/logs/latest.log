@@ -1055,3 +1055,9 @@
 [14Jan2025 00:39:29.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to Nicolsita_XD]
 [14Jan2025 00:41:02.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]
 [14Jan2025 00:41:10.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]
+[14Jan2025 00:42:19.345] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10806 in lostcities:lostcity
+[14Jan2025 00:42:19.346] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10806 in minecraft:the_end
+[14Jan2025 00:42:19.346] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10806 in deceasedcraft:abyss
+[14Jan2025 00:42:19.347] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10806 in minecraft:the_nether
+[14Jan2025 00:42:19.385] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10806 in minecraft:overworld
+[14Jan2025 00:52:10.487] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/214782, l='ServerLevel[world]', x=-2503.50, y=58.00, z=-916.50]
