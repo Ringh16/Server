@@ -1271,3 +1271,31 @@ java.lang.ClassCastException: class net.minecraft.world.item.AirItem cannot be c
 [14Jan2025 02:32:52.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Gave 32    [Block of Coal] to xtralexxD]
 [14Jan2025 02:35:19.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD has made the advancement [Barrel Booty]
 [14Jan2025 02:37:33.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to Nicolsita_XD]
+[14Jan2025 02:45:27.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -2458.500000, 63.500000, -815.500000]
+[14Jan2025 02:45:37.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD died
+[14Jan2025 02:45:37.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Killed Nicolsita_XD]
+[14Jan2025 02:45:39.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 02:45:39.011] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 02:45:39.014] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:45:39.015] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:47:34.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nicolsita_XD> zzz
+[14Jan2025 02:47:36.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nicolsita_XD> zzz
+[14Jan2025 02:47:37.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nicolsita_XD> zzz
+[14Jan2025 02:47:39.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nicolsita_XD> zzz
+[14Jan2025 02:47:41.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nicolsita_XD> z
+[14Jan2025 02:49:31.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported xtralexxD to Nicolsita_XD]
+[14Jan2025 02:49:57.194] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4605 in lostcities:lostcity
+[14Jan2025 02:49:57.194] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4605 in minecraft:the_end
+[14Jan2025 02:49:57.195] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4605 in deceasedcraft:abyss
+[14Jan2025 02:49:57.195] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4605 in minecraft:the_nether
+[14Jan2025 02:49:57.235] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4605 in minecraft:overworld
+[14Jan2025 02:50:42.987] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1096784, l='ServerLevel[world]', x=-2222.50, y=45.00, z=-741.50]
+[14Jan2025 02:51:44.837] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1104070, l='ServerLevel[world]', x=-2223.50, y=44.00, z=-726.50]
+[14Jan2025 02:51:49.487] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1104684, l='ServerLevel[world]', x=-2219.50, y=43.00, z=-722.50]
+[14Jan2025 02:51:49.487] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1104686, l='ServerLevel[world]', x=-2223.50, y=43.00, z=-727.50]
+[14Jan2025 02:52:12.486] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1107352, l='ServerLevel[world]', x=-2221.50, y=44.00, z=-736.50]
+[14Jan2025 02:52:25.137] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1108600, l='ServerLevel[world]', x=-2216.50, y=42.00, z=-722.50]
+[14Jan2025 02:53:19.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD has reached the goal [The Upgrade]
+[14Jan2025 02:53:22.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Ready to enchant.]
+[14Jan2025 02:53:31.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD has made the advancement [Crops of the Wild]
+[14Jan2025 02:54:02.736] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1119502, l='ServerLevel[world]', x=-2222.50, y=45.00, z=-738.50]

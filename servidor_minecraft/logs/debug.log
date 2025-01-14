@@ -18240,3 +18240,83 @@ java.lang.ClassCastException: class net.minecraft.world.item.AirItem cannot be c
 [14Jan2025 02:42:54.462] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-248
 [14Jan2025 02:42:54.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jan2025 02:42:54.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 02:44:07.581] [IO-Worker-242/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-249
+[14Jan2025 02:45:27.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -2458.500000, 63.500000, -815.500000]
+[14Jan2025 02:45:31.244] [IO-Worker-249/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-250
+[14Jan2025 02:45:37.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD died
+[14Jan2025 02:45:37.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Killed Nicolsita_XD]
+[14Jan2025 02:45:38.656] [IO-Worker-249/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-251
+[14Jan2025 02:45:39.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 02:45:39.011] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 02:45:39.014] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:45:39.015] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 02:46:08.835] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[14Jan2025 02:46:16.281] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 49
+[14Jan2025 02:46:16.281] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@10ee3dd=InventoryMapping{i=net.minecraft.world.CompoundContainer@10ee3dd, c=net.minecraft.world.inventory.ChestMenu@6017466, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6017466, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6017466, b=81, e=89}}
+[14Jan2025 02:46:16.281] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@10ee3dd, c=net.minecraft.world.inventory.ChestMenu@6017466, b=0, e=53}
+[14Jan2025 02:47:06.196] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 39
+[14Jan2025 02:47:06.196] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@73f72d89, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@73f72d89, b=81, e=89}, net.minecraft.world.CompoundContainer@6f60fa1f=InventoryMapping{i=net.minecraft.world.CompoundContainer@6f60fa1f, c=net.minecraft.world.inventory.ChestMenu@73f72d89, b=0, e=53}}
+[14Jan2025 02:47:06.196] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6f60fa1f, c=net.minecraft.world.inventory.ChestMenu@73f72d89, b=0, e=53}
+[14Jan2025 02:47:16.710] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 33
+[14Jan2025 02:47:16.710] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@678d6319, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@678d6319, b=81, e=89}, net.minecraft.world.CompoundContainer@ee7a49a=InventoryMapping{i=net.minecraft.world.CompoundContainer@ee7a49a, c=net.minecraft.world.inventory.ChestMenu@678d6319, b=0, e=53}}
+[14Jan2025 02:47:16.710] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@ee7a49a, c=net.minecraft.world.inventory.ChestMenu@678d6319, b=0, e=53}
+[14Jan2025 02:47:25.616] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[14Jan2025 02:47:25.617] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@4b8992ff=InventoryMapping{i=net.minecraft.world.CompoundContainer@4b8992ff, c=net.minecraft.world.inventory.ChestMenu@13629dc3, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@13629dc3, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@13629dc3, b=81, e=89}}
+[14Jan2025 02:47:25.617] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@4b8992ff, c=net.minecraft.world.inventory.ChestMenu@13629dc3, b=0, e=53}
+[14Jan2025 02:47:34.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nicolsita_XD> zzz
+[14Jan2025 02:47:36.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nicolsita_XD> zzz
+[14Jan2025 02:47:37.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nicolsita_XD> zzz
+[14Jan2025 02:47:39.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nicolsita_XD> zzz
+[14Jan2025 02:47:41.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nicolsita_XD> z
+[14Jan2025 02:47:54.451] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-252
+[14Jan2025 02:47:54.452] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-253
+[14Jan2025 02:47:54.452] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-254
+[14Jan2025 02:47:54.453] [IO-Worker-250/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-255
+[14Jan2025 02:47:54.458] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-256
+[14Jan2025 02:47:54.458] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-257
+[14Jan2025 02:47:54.458] [IO-Worker-250/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-258
+[14Jan2025 02:47:54.458] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-259
+[14Jan2025 02:47:54.459] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-260
+[14Jan2025 02:47:54.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:47:54.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 02:49:26.895] [IO-Worker-257/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-261
+[14Jan2025 02:49:28.835] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[14Jan2025 02:49:31.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported xtralexxD to Nicolsita_XD]
+[14Jan2025 02:49:57.194] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4605 in lostcities:lostcity
+[14Jan2025 02:49:57.194] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4605 in minecraft:the_end
+[14Jan2025 02:49:57.195] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4605 in deceasedcraft:abyss
+[14Jan2025 02:49:57.195] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4605 in minecraft:the_nether
+[14Jan2025 02:49:57.235] [Server thread/INFO] [sereneseasons/]: Season time skipped by 4605 in minecraft:overworld
+[14Jan2025 02:50:42.987] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1096784, l='ServerLevel[world]', x=-2222.50, y=45.00, z=-741.50]
+[14Jan2025 02:51:44.837] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1104070, l='ServerLevel[world]', x=-2223.50, y=44.00, z=-726.50]
+[14Jan2025 02:51:49.487] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1104684, l='ServerLevel[world]', x=-2219.50, y=43.00, z=-722.50]
+[14Jan2025 02:51:49.487] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1104686, l='ServerLevel[world]', x=-2223.50, y=43.00, z=-727.50]
+[14Jan2025 02:52:12.486] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1107352, l='ServerLevel[world]', x=-2221.50, y=44.00, z=-736.50]
+[14Jan2025 02:52:25.137] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1108600, l='ServerLevel[world]', x=-2216.50, y=42.00, z=-722.50]
+[14Jan2025 02:52:48.735] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[14Jan2025 02:52:48.785] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[14Jan2025 02:52:54.454] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-262
+[14Jan2025 02:52:54.455] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-263
+[14Jan2025 02:52:54.460] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-264
+[14Jan2025 02:52:54.460] [IO-Worker-257/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-265
+[14Jan2025 02:52:54.461] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-266
+[14Jan2025 02:52:54.461] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-267
+[14Jan2025 02:52:54.462] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-268
+[14Jan2025 02:52:54.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:52:54.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 02:52:58.121] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 13
+[14Jan2025 02:52:58.121] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {noobanidus.mods.lootr.data.SpecialChestInventory@4cf050c2=InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@4cf050c2, c=net.minecraft.world.inventory.ChestMenu@53add9bf, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@53add9bf, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@53add9bf, b=54, e=62}}
+[14Jan2025 02:52:58.121] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@4cf050c2, c=net.minecraft.world.inventory.ChestMenu@53add9bf, b=0, e=26}
+[14Jan2025 02:53:07.300] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 22
+[14Jan2025 02:53:07.301] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@141bd331, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@141bd331, b=54, e=62}, noobanidus.mods.lootr.data.SpecialChestInventory@2e647d2a=InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@2e647d2a, c=net.minecraft.world.inventory.ChestMenu@141bd331, b=0, e=26}}
+[14Jan2025 02:53:07.301] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@2e647d2a, c=net.minecraft.world.inventory.ChestMenu@141bd331, b=0, e=26}
+[14Jan2025 02:53:16.862] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 24
+[14Jan2025 02:53:16.863] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {noobanidus.mods.lootr.data.SpecialChestInventory@d354f22=InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@d354f22, c=net.minecraft.world.inventory.ChestMenu@17e43aaa, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@17e43aaa, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@17e43aaa, b=54, e=62}}
+[14Jan2025 02:53:16.863] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@d354f22, c=net.minecraft.world.inventory.ChestMenu@17e43aaa, b=0, e=26}
+[14Jan2025 02:53:19.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD has reached the goal [The Upgrade]
+[14Jan2025 02:53:22.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Ready to enchant.]
+[14Jan2025 02:53:25.151] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 25
+[14Jan2025 02:53:25.151] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3fc4693c, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3fc4693c, b=54, e=62}, noobanidus.mods.lootr.data.SpecialChestInventory@52c69108=InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@52c69108, c=net.minecraft.world.inventory.ChestMenu@3fc4693c, b=0, e=26}}
+[14Jan2025 02:53:25.151] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@52c69108, c=net.minecraft.world.inventory.ChestMenu@3fc4693c, b=0, e=26}
+[14Jan2025 02:53:31.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD has made the advancement [Crops of the Wild]
+[14Jan2025 02:54:02.736] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1119502, l='ServerLevel[world]', x=-2222.50, y=45.00, z=-738.50]
