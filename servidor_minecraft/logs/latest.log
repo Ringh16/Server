@@ -1156,3 +1156,22 @@
 [14Jan2025 01:45:44.085] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b30c7fa
 [14Jan2025 01:48:15.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Set own game mode to Creative Mode]
 [14Jan2025 01:52:41.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has reached the goal [A Strong Breeze]
+[14Jan2025 01:53:23.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD was slain by Zombie
+[14Jan2025 01:53:24.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Set own game mode to Survival Mode]
+[14Jan2025 01:53:26.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 01:53:26.626] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 01:53:26.630] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 01:53:26.630] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 01:53:32.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -3383.500000, 72.500000, -811.500000]
+[14Jan2025 01:53:33.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nicolsita_XD was slain by Zombie
+[14Jan2025 01:53:35.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[14Jan2025 01:53:35.032] [Server thread/INFO] [tac/]: PENDING
+[14Jan2025 01:53:35.036] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@207856ff (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 01:53:35.036] [Netty Epoll Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2284b846 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[14Jan2025 01:53:41.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Set own game mode to Creative Mode]
+[14Jan2025 01:53:46.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to -3384.500000, 72.500000, -812.500000]
+[14Jan2025 01:54:31.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Set own game mode to Survival Mode]
+[14Jan2025 01:54:35.288] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/672742, l='ServerLevel[world]', x=-2502.50, y=56.00, z=-909.50]
+[14Jan2025 01:55:07.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nicolsita_XD: Teleported Nicolsita_XD to xtralexxD]
+[14Jan2025 01:58:25.891] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/700402, l='ServerLevel[world]', x=-2502.50, y=58.00, z=-913.50]
+[14Jan2025 02:01:45.537] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/725014, l='ServerLevel[world]', x=-2503.50, y=56.00, z=-909.50]
