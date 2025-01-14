@@ -1325,3 +1325,13 @@ java.lang.ClassCastException: class net.minecraft.world.item.AirItem cannot be c
 [14Jan2025 03:02:55.736] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1182136, l='ServerLevel[world]', x=-2222.50, y=43.00, z=-741.50]
 [14Jan2025 03:04:13.838] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1191394, l='ServerLevel[world]', x=-2221.50, y=45.00, z=-732.50]
 [14Jan2025 03:04:20.339] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1192212, l='ServerLevel[world]', x=-2215.50, y=43.00, z=-744.50]
+[14Jan2025 03:04:58.738] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1196994, l='ServerLevel[world]', x=-2222.50, y=45.00, z=-736.50]
+[14Jan2025 03:05:12.087] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1198568, l='ServerLevel[world]', x=-2218.50, y=39.00, z=-734.50]
+[14Jan2025 03:05:34.187] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1201249, l='ServerLevel[world]', x=-2219.50, y=43.00, z=-722.50]
+[14Jan2025 03:08:00.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to -2452.500000, 67.500000, -795.500000]
+[14Jan2025 03:08:29.145] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1762 in lostcities:lostcity
+[14Jan2025 03:08:29.145] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1762 in minecraft:the_end
+[14Jan2025 03:08:29.146] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1762 in deceasedcraft:abyss
+[14Jan2025 03:08:29.146] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1762 in minecraft:the_nether
+[14Jan2025 03:08:29.185] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1762 in minecraft:overworld
+[14Jan2025 03:13:24.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Don't drink this...]
