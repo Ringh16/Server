@@ -2279,3 +2279,82 @@ BCLib - The End  BiomeSource (6f33391)
 [02:59:04] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nicolsita_XD accepted server config.
 [02:59:12] [Server thread/INFO]: [Nicolsita_XD: Teleported Nicolsita_XD to 3.500000, 77.500000, 57.500000]
 [02:59:13] [Server thread/INFO]: Nicolsita_XD claimed a grave belonging to Nicolsita_XD at 3, 77, 57, minecraft:overworld
+[03:00:32] [Server thread/INFO]: Villager class_1646['Judy'/219, l='ServerLevel[world]', x=-3.38, y=251.00, z=54.62] died, message: 'Judy hit the ground too hard'
+[03:00:32] [Server thread/INFO]: Named entity class_1646['Judy'/219, l='ServerLevel[world]', x=-3.38, y=251.00, z=54.62] died: Judy fell from a high place
+[03:01:23] [Server thread/INFO]: [EMI] xtralexxD cheated in 64 cobblestone
+[03:01:24] [Server thread/INFO]: [EMI] xtralexxD deleted 22 cobblestone
+[03:01:43] [Server thread/INFO]: [xtralexxD: Teleported xtralexxD to Nicolsita_XD]
+[03:01:53] [Server thread/INFO]: Nicolsita_XD was slain by Dragon
+[03:01:54] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nicolsita_XD accepted server config.
+[03:01:58] [Server thread/INFO]: xtralexxD was slain by Dragon
+[03:01:59] [Server thread/INFO]: Nicolsita_XD claimed a grave belonging to Nicolsita_XD at 72, 81, 11, minecraft:overworld
+[03:01:59] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of xtralexxD accepted server config.
+[03:02:04] [Server thread/INFO]: xtralexxD claimed a grave belonging to xtralexxD at 70, 82, 14, minecraft:overworld
+[03:02:09] [Server thread/INFO]: xtralexxD was slain by Dragon
+[03:02:10] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of xtralexxD accepted server config.
+[03:02:11] [Server thread/INFO]: Nicolsita_XD was slain by Dragon
+[03:02:12] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nicolsita_XD accepted server config.
+[03:02:14] [Server thread/INFO]: xtralexxD claimed a grave belonging to xtralexxD at 71, 83, 16, minecraft:overworld
+[03:02:18] [Server thread/INFO]: xtralexxD was slain by Dragon
+[03:02:20] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of xtralexxD accepted server config.
+[03:02:20] [Server thread/INFO]: Nicolsita_XD was slain by Dragon
+[03:02:20] [Server thread/INFO]: Did not backup data (grave data empty)
+[03:02:22] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nicolsita_XD accepted server config.
+[03:02:24] [Server thread/INFO]: xtralexxD claimed a grave belonging to xtralexxD at 71, 83, 16, minecraft:overworld
+[03:02:28] [Server thread/INFO]: xtralexxD was slain by Dragon
+[03:02:30] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of xtralexxD accepted server config.
+[03:02:30] [Server thread/INFO]: Nicolsita_XD was slain by Dragon
+[03:02:30] [Server thread/INFO]: Did not backup data (grave data empty)
+[03:02:32] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nicolsita_XD accepted server config.
+[03:02:34] [Server thread/INFO]: xtralexxD was slain by Dragon
+[03:02:34] [Server thread/INFO]: Did not backup data (grave data empty)
+[03:02:36] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of xtralexxD accepted server config.
+[03:02:40] [Server thread/INFO]: xtralexxD claimed a grave belonging to xtralexxD at 74, 84, 14, minecraft:overworld
+[03:02:49] [Server thread/INFO]: xtralexxD has made the advancement [Best Friends Forever]
+[03:02:52] [Server thread/INFO]: Nicolsita_XD claimed a grave belonging to Nicolsita_XD at 71, 81, 11, minecraft:overworld
+[03:03:29] [Server thread/INFO]: Nicolsita_XD was slain by Dragon
+[03:03:30] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Nicolsita_XD accepted server config.
+[03:03:39] [Server thread/INFO]: [Nicolsita_XD: Teleported Nicolsita_XD to -15.500000, 78.500000, 48.500000]
+[03:03:50] [Server thread/INFO]: Nicolsita_XD claimed a grave belonging to Nicolsita_XD at -16, 78, 47, minecraft:overworld
+[03:04:34] [Server thread/INFO]: Nicolsita_XD has made the advancement [Best Friends Forever]
+[03:05:51] [Server thread/INFO]: Nicolsita_XD has made the advancement [Fruits of the Field]
+[03:06:13] [Server thread/INFO]: xtralexxD has made the advancement [Fruits of the Field]
+[03:06:25] [Server thread/WARN]: xtralexxD was kicked for floating a vehicle too long!
+[03:06:25] [Server thread/INFO]: xtralexxD lost connection: Flying is not enabled on this server
+[03:06:25] [Server thread/INFO]: xtralexxD left the game
+[03:06:25] [Server thread/INFO]: remove player wand
+[03:06:25] [Server thread/INFO]: Updating all forceload tickets for 53407af1-05c9-37ae-8d17-2fbf496f58b4
+[03:06:25] [Server thread/WARN]: handleDisconnection() called twice
+[03:06:59] [Server thread/INFO]: [Handshake] Sending channel query
+[03:06:59] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[03:06:59] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[03:07:00] [Server thread/INFO]: xtralexxD[/192.168.195.160:53088] logged in with entity id 12125 at (-161.09164429520945, 80.82150744550263, 86.00823775146388)
+[03:07:00] [Server thread/INFO]: Sending server config values to client
+[03:07:00] [Server thread/INFO]: Syncing config to xtralexxD (53407af1-05c9-37ae-8d17-2fbf496f58b4)
+[03:07:00] [Server thread/INFO]: Loading config from file...
+[03:07:00] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[03:07:00] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:07:00] [Server thread/INFO]: xtralexxD joined the game
+[03:07:00] [Server thread/INFO]: Loading Configs for Sortilege
+[03:07:00] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[03:07:00] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[03:07:00] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[03:07:00] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:07:00] [Server thread/INFO]: PLAYER_JOIN
+[03:07:00] [Server thread/INFO]: add_player wand
+[03:07:00] [Server thread/INFO]: config sent
+[03:07:00] [Server thread/INFO]: Updating all forceload tickets for 53407af1-05c9-37ae-8d17-2fbf496f58b4
+[03:07:02] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[03:07:03] [Netty Epoll Server IO #5/INFO]: Channel update: xtralexxD -> default
+[03:07:03] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player xtralexxD. Claiming: GRAVE / Robbing: INVENTORY
+[03:07:04] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of xtralexxD accepted server config.
+[03:07:17] [Server thread/INFO]: Villager class_1646['Phoebe'/221, l='ServerLevel[world]', x=-0.07, y=192.00, z=67.35] died, message: 'Phoebe hit the ground too hard'
+[03:07:17] [Server thread/INFO]: Named entity class_1646['Phoebe'/221, l='ServerLevel[world]', x=-0.07, y=192.00, z=67.35] died: Phoebe fell from a high place
+[03:08:00] [Server thread/INFO]: [EMI] xtralexxD cheated in 64 cobblestone_slab
+[03:08:00] [Server thread/INFO]: [EMI] xtralexxD cheated in 64 cobblestone_slab
+[03:08:01] [Server thread/INFO]: [EMI] xtralexxD deleted 64 cobblestone_slab
+[03:08:02] [Server thread/INFO]: [EMI] xtralexxD deleted 64 cobblestone_slab
+[03:08:03] [Server thread/INFO]: [EMI] xtralexxD cheated in 64 cobblestone
+[03:08:03] [Server thread/INFO]: [EMI] xtralexxD cheated in 64 cobblestone
+[03:10:05] [Server thread/INFO]: [EMI] xtralexxD cheated in 64 cobblestone
+[03:10:05] [Server thread/INFO]: [EMI] xtralexxD cheated in 64 cobblestone
