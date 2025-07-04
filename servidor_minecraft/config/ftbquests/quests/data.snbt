@@ -8,15 +8,10 @@
 	disable_gui: false
 	drop_book_on_death: false
 	drop_loot_crates: false
-	emergency_items_cooldown: 300
+	emergency_items: [{ Count: 1, id: "waystones:return_scroll" }]
+	emergency_items_cooldown: 30
 	grid_scale: 0.5d
-	icon: {
-		Count: 1
-		id: "ftbquests:custom_icon"
-		tag: {
-			Icon: "prominent:textures/other/prominent_logo.png"
-		}
-	}
+	icon: "mmorpg:skill_gems/support/dex"
 	lock_message: ""
 	loot_crate_no_drop: {
 		boss: 0
@@ -26,6 +21,6 @@
 	pause_game: false
 	progression_mode: "flexible"
 	show_lock_icons: true
-	title: "&6&lProminence II&7 RPG"
+	title: "&dCraft to Exile 2&r"
 	version: 13
 }

@@ -1,0 +1,22 @@
+{
+	id: "d3966005-28f2-43f4-8571-f5d079a48883"
+	type: "party"
+	owner: "53407af1-05c9-37ae-8d17-2fbf496f58b4"
+	ranks: {
+		53407af1-05c9-37ae-8d17-2fbf496f58b4: "owner"
+		3443ea1e-433a-37fd-ad61-fea579131a04: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "lostilines"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A859FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1751426834569L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"xtralexxD\"}]}" }
+		{ from: "53407af1-05c9-37ae-8d17-2fbf496f58b4", date: 1751426935906L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Nicolsita_XD\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1751426948371L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Nicolsita_XD\"}]}" }
+	]
+	extra: { }
+}

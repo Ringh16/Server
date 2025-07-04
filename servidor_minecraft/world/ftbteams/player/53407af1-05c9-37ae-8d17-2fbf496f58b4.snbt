@@ -2,13 +2,11 @@
 	id: "53407af1-05c9-37ae-8d17-2fbf496f58b4"
 	type: "player"
 	player_name: "xtralexxD"
-	ranks: {
-		53407af1-05c9-37ae-8d17-2fbf496f58b4: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "xtralexxD"
 		"ftbteams:description": ""
-		"ftbteams:color": "#59D2FF"
+		"ftbteams:color": "#A859FF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

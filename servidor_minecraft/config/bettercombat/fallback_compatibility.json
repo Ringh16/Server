@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "blacklist_item_id_regex": "pickaxe|farmersdelight",
+  "blacklist_item_id_regex": "pickaxe",
   "fallback_compatibility": [
     {
       "item_id_regex": "claymore|great_sword|greatsword",
@@ -15,7 +15,7 @@
       "weapon_attributes": "bettercombat:double_axe"
     },
     {
-      "item_id_regex": "scythe",
+      "item_id_regex": "scythe|whip",
       "weapon_attributes": "bettercombat:scythe"
     },
     {
@@ -27,7 +27,7 @@
       "weapon_attributes": "bettercombat:glaive"
     },
     {
-      "item_id_regex": "spear",
+      "item_id_regex": "spear|trident",
       "weapon_attributes": "bettercombat:spear"
     },
     {
@@ -39,8 +39,8 @@
       "weapon_attributes": "bettercombat:anchor"
     },
     {
-      "item_id_regex": "battlestaff|battle_staff",
-      "weapon_attributes": "bettercombat:battlestaff"
+      "item_id_regex": "battlestaff|battle_staff|staff",
+      "weapon_attributes": "bettercombat:staff"
     },
     {
       "item_id_regex": "claw",
@@ -51,7 +51,7 @@
       "weapon_attributes": "bettercombat:fist"
     },
     {
-      "item_id_regex": "trident|impaled",
+      "item_id_regex": "impaled",
       "weapon_attributes": "bettercombat:trident"
     },
     {
@@ -75,15 +75,15 @@
       "weapon_attributes": "bettercombat:dagger"
     },
     {
-      "item_id_regex": "staff|wand|sceptre|stave|rod",
+      "item_id_regex": "wand|sceptre|scepter|stave|rod",
       "weapon_attributes": "bettercombat:wand"
     },
     {
-      "item_id_regex": "mace|hammer|flail",
+      "item_id_regex": "mace|hammer|flail|skillet",
       "weapon_attributes": "bettercombat:mace"
     },
     {
-      "item_id_regex": "axe",
+      "item_id_regex": "axe|cleaver|hatchet",
       "weapon_attributes": "bettercombat:axe"
     },
     {

@@ -1,191 +1,86 @@
 type = customizablemenus
 
-net.minecraft.class_525 {
-}
-
-net.minecraft.class_3928 {
-}
-
-net.minecraft.class_481 {
-}
-
-net.minecraft.class_429 {
-}
-
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
-xaero.common.gui.GuiMinimapMain {
+net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.OptionsScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.PauseScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+com.darkere.crashutils.Screens.PlayerInvScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.ChatScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.LevelLoadingScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.ProgressScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.ReceivingLevelScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+lain.mods.cos.impl.client.gui.GuiCosArmorInventory {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.inventory.ContainerScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.TitleScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.inventory.InventoryScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+top.theillusivec4.curios.client.gui.CuriosScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+com.robertx22.mine_and_slash.gui.screens.character_screen.MainHubScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+com.robertx22.mine_and_slash.gui.screens.stat_gui.StatScreen {
 }
 
-net.minecraft.class_526 {
+com.robertx22.mine_and_slash.gui.screens.skill_tree.AscendancyTree {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+com.robertx22.mine_and_slash.characters.reworked_gui.ToonScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+com.robertx22.mine_and_slash.gui.wiki.reworked.NewWikiScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+com.robertx22.mine_and_slash.gui.inv_gui.InvGuiScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+com.robertx22.mine_and_slash.gui.screens.spell.SpellSchoolScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+com.robertx22.mine_and_slash.capability.player.container.SkillGemsScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+com.robertx22.mine_and_slash.gui.screens.skill_tree.TalentsScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+com.robertx22.mine_and_slash.prophecy.gui.ProphecyScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+com.robertx22.mine_and_slash.gui.screens.map.MapScreen {
 }
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-net.minecraft.class_490 {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
-net.minecraft.class_433 {
-}
-
-net.minecraft.class_436 {
-}
-
-net.minecraft.class_442 {
-}
-
-net.minecraft.class_500 {
-}
-
-io.wispforest.accessories.client.gui.AccessoriesScreen {
-}
-
-com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
+top.theillusivec4.curios.client.gui.CuriosScreenV2 {
 }
 

@@ -7,11 +7,11 @@ B:forcefullscreen = 'false';
 B:playbackgroundsounds = 'true';
 [A minecraft restart is required after changing this value.]
 B:enablehotkeys = 'true';
-B:playmenumusic = 'false';
+B:playmenumusic = 'true';
 S:variables_to_reset_on_launch = '';
 B:showdebugwarnings = 'true';
 [Sets the default GUI scale on first launch. Useful for modpacks. Cache data is saved in '/mods/fancymenu/'.]
-I:defaultguiscale = '3';
+I:defaultguiscale = '-1';
 
 
 ##[customization]
@@ -32,7 +32,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'Prominence II: Void's Invasion';
+S:customwindowtitle = 'Craft to Exile 2';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 
@@ -57,7 +57,7 @@ B:show_world_icons = 'true';
 
 I:gridsize = '10';
 B:editordeleteconfirmation = 'true';
-B:showgrid = 'false';
+B:showgrid = 'true';
 [If the warning when trying to move an vanilla button without an orientation should be displayed or not.]
 B:showvanillamovewarning = 'true';
 
