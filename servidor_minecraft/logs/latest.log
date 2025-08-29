@@ -1397,3 +1397,98 @@
 [29Aug2025 22:01:44.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid has made the advancement [Refined Storage]
 [29Aug2025 22:01:47.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar has made the advancement [Stone Age]
 [29Aug2025 22:02:14.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid has made the advancement [Connecting]
+[29Aug2025 22:04:50.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Runner
+[29Aug2025 22:04:52.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:04:52.061] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:06:04.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD was slain by Zombie
+[29Aug2025 22:06:04.288] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Aug2025 22:06:04.289] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 12 is dual wielding: false
+[29Aug2025 22:06:04.289] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[29Aug2025 22:06:04.289] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[29Aug2025 22:06:04.289] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[29Aug2025 22:06:05.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:06:05.540] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:06:15.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by The Wheezer
+[29Aug2025 22:06:17.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:06:17.034] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:06:21.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to 29.500000, 67.500000, -113.500000]
+[29Aug2025 22:07:23.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:07:26.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:07:26.992] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:07:57.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Husk
+[29Aug2025 22:07:59.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:07:59.562] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:09:12.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Husk
+[29Aug2025 22:09:13.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:09:13.595] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:09:24.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Zombie
+[29Aug2025 22:09:25.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:09:25.608] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:09:37.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Husk
+[29Aug2025 22:09:39.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:09:39.048] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:09:40.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Runner
+[29Aug2025 22:09:42.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:09:42.144] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:09:52.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Zombie
+[29Aug2025 22:09:53.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:09:53.617] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:10:42.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Infected Police
+[29Aug2025 22:10:43.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:10:43.396] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:11:11.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Husk
+[29Aug2025 22:11:11.305] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Aug2025 22:11:11.305] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[29Aug2025 22:11:11.305] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[29Aug2025 22:11:11.305] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[29Aug2025 22:11:11.305] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[29Aug2025 22:11:12.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:11:12.306] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:11:31.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:11:33.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:11:33.368] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:13:03.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:13:05.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:13:05.589] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:13:53.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:13:55.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:13:55.038] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:14:58.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:14:59.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:14:59.740] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:16:01.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by The Wheezer
+[29Aug2025 22:16:03.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:16:03.635] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:16:42.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Zombie
+[29Aug2025 22:16:44.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:16:44.456] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:16:48.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Zombie
+[29Aug2025 22:16:50.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:16:50.142] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:17:10.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Infected Police
+[29Aug2025 22:17:13.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NWAskar> xaero-waypoint:Shared Location:S:85:80:-562:2:false:0:Internal-overworld-waypoints
+[29Aug2025 22:17:41.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by The Wheezer
+[29Aug2025 22:17:42.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:17:42.857] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:17:49.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by The Wheezer
+[29Aug2025 22:17:50.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:17:50.883] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:17:52.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:17:52.333] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:18:14.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD was slain by Zombie
+[29Aug2025 22:18:15.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:18:15.500] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:18:20.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to cbuenorey]
+[29Aug2025 22:19:04.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:19:37.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:19:37.105] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:20:30.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:20:31.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:20:31.912] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:21:28.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Husk
+[29Aug2025 22:21:29.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:21:29.459] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:22:48.258] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-11, y=64, z=284} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:22:48.258] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-11, y=64, z=284}
+[29Aug2025 22:22:48.259] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-11, y=64, z=285} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:22:48.259] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-11, y=64, z=285}

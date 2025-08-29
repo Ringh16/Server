@@ -341,6 +341,18 @@
     },
     "done": true
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-08-29 21:58:26 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:survival_tactics": {
+    "criteria": {
+      "freezing_on_fire": "2025-08-29 21:58:04 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermometer": {
     "criteria": {
       "has_recipe": "2025-08-29 21:23:30 +0000"
@@ -373,6 +385,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "field": "2025-08-29 22:13:35 +0000",
       "coniferous_forest": "2025-08-29 21:23:30 +0000",
       "snowy_fir_clearing": "2025-08-29 21:48:37 +0000"
     },
@@ -499,6 +512,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-08-29 22:01:13 +0000",
       "minecraft:zombie": "2025-08-29 21:44:03 +0000"
     },
     "done": false

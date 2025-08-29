@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-08-29 22:00:10 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-08-29 21:23:38 +0000"
@@ -341,9 +347,27 @@
     },
     "done": true
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-08-29 21:58:24 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:survival_tactics": {
+    "criteria": {
+      "freezing_on_fire": "2025-08-29 21:58:51 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermometer": {
     "criteria": {
       "has_recipe": "2025-08-29 21:23:38 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2025-08-29 22:01:42 +0000"
     },
     "done": true
   },
@@ -373,6 +397,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "field": "2025-08-29 22:13:53 +0000",
       "coniferous_forest": "2025-08-29 21:23:38 +0000"
     },
     "done": false

@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "crossbowverhaul:recipes/combat/bolt_diamond": {
+    "criteria": {
+      "has_ingot": "2025-08-29 22:01:07 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:24:23 +0000"
@@ -329,6 +335,12 @@
     },
     "done": true
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-08-29 22:01:02 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermometer": {
     "criteria": {
       "has_recipe": "2025-08-29 21:24:23 +0000"
@@ -361,9 +373,17 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2025-08-29 22:10:34 +0000",
+      "field": "2025-08-29 22:13:06 +0000",
       "coniferous_forest": "2025-08-29 21:24:23 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-29 22:01:47 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -426,6 +446,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-08-29 22:01:04 +0000"
     },
     "done": true
   },
@@ -496,6 +522,12 @@
     },
     "done": false
   },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-08-29 22:08:29 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:24:23 +0000"
@@ -553,6 +585,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-08-29 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-29 22:01:07 +0000"
     },
     "done": true
   },
