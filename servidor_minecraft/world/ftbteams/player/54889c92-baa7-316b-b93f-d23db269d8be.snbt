@@ -2,9 +2,7 @@
 	id: "54889c92-baa7-316b-b93f-d23db269d8be"
 	type: "player"
 	player_name: "NWAskar"
-	ranks: {
-		54889c92-baa7-316b-b93f-d23db269d8be: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "NWAskar"
 		"ftbteams:description": ""

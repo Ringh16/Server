@@ -1,0 +1,28 @@
+{
+	id: "1025d718-aee3-405c-a336-643015a769db"
+	type: "party"
+	owner: "53407af1-05c9-37ae-8d17-2fbf496f58b4"
+	ranks: {
+		54889c92-baa7-316b-b93f-d23db269d8be: "member"
+		53407af1-05c9-37ae-8d17-2fbf496f58b4: "owner"
+		06d198ff-b473-3f52-b165-234fd92de410: "member"
+		5837c479-c143-3b39-a6e9-e32c2b250418: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "LosLambePenes"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59EE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756503763400L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"xtralexxD\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "53407af1-05c9-37ae-8d17-2fbf496f58b4", date: 1756503763410L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Remitid\"}]}" }
+		{ from: "53407af1-05c9-37ae-8d17-2fbf496f58b4", date: 1756503763410L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"cbuenorey\"}]}" }
+		{ from: "53407af1-05c9-37ae-8d17-2fbf496f58b4", date: 1756503763410L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"NWAskar\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756503765228L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"NWAskar\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756503767485L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Remitid\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756503769438L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"cbuenorey\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

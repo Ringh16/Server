@@ -2,9 +2,7 @@
 	id: "06d198ff-b473-3f52-b165-234fd92de410"
 	type: "player"
 	player_name: "cbuenorey"
-	ranks: {
-		06d198ff-b473-3f52-b165-234fd92de410: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "cbuenorey"
 		"ftbteams:description": ""

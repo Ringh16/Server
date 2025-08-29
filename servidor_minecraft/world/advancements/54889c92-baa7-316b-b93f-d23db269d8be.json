@@ -158,11 +158,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-08-29 21:35:09 +0000",
+      "minecraft:river": "2025-08-29 21:46:19 +0000",
       "minecraft:snowy_plains": "2025-08-29 21:35:11 +0000",
       "minecraft:snowy_taiga": "2025-08-29 21:35:07 +0000",
       "minecraft:forest": "2025-08-29 21:30:39 +0000"
     },
     "done": false
+  },
+  "crossbowverhaul:recipes/combat/bolt_gold": {
+    "criteria": {
+      "has_ingot": "2025-08-29 21:41:51 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
@@ -209,6 +216,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "ag_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement": "2025-08-29 21:43:29 +0000"
     },
     "done": true
   },

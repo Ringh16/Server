@@ -2,9 +2,7 @@
 	id: "53407af1-05c9-37ae-8d17-2fbf496f58b4"
 	type: "player"
 	player_name: "xtralexxD"
-	ranks: {
-		53407af1-05c9-37ae-8d17-2fbf496f58b4: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "xtralexxD"
 		"ftbteams:description": ""

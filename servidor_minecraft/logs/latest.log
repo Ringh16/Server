@@ -1334,3 +1334,47 @@
 [29Aug2025 21:40:31.757] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-321, y=63, z=88} but found not block entity block Block{minecraft:water}[level=7] at location
 [29Aug2025 21:40:31.758] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=7] but failed at location BlockPos{x=-321, y=63, z=88}
 [29Aug2025 21:42:44.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cbuenorey has made the advancement [Crops of the Wild]
+[29Aug2025 21:43:29.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cbuenorey has made the advancement [First Day]
+[29Aug2025 21:43:29.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid has made the advancement [First Day]
+[29Aug2025 21:43:29.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar has made the advancement [First Day]
+[29Aug2025 21:44:03.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Monster Hunter]
+[29Aug2025 21:44:22.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 21:44:24.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:44:24.884] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 21:45:11.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 21:45:13.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:45:13.469] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 21:46:31.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 21:46:36.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:46:36.649] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 21:47:02.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 21:47:03.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:47:03.885] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 21:47:25.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar died from dehydration
+[29Aug2025 21:47:26.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:47:26.985] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 21:47:31.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=85, z=-4}
+[29Aug2025 21:47:37.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cbuenorey has made the advancement [Monster Hunter]
+[29Aug2025 21:48:04.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Husk
+[29Aug2025 21:48:06.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:48:06.237] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 21:48:45.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 21:48:46.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:48:46.591] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 21:48:50.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD was slain by Zombie
+[29Aug2025 21:48:51.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:48:51.352] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 21:49:34.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cbuenorey was slain by Zombie
+[29Aug2025 21:49:36.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:49:36.390] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 21:49:40.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 21:49:41.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:49:41.890] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 21:49:56.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD was slain by Zombie
+[29Aug2025 21:49:57.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:49:57.590] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 21:51:11.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar has made the advancement [Amateur Archaeologist]
+[29Aug2025 21:51:51.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar has made the advancement [Monster Hunter]
+[29Aug2025 21:51:54.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 21:51:56.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:51:56.588] [Server thread/INFO] [tac/]: PENDING
