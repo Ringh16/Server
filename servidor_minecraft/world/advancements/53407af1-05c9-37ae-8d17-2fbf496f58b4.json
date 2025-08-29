@@ -157,9 +157,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-08-29 21:34:22 +0000",
       "minecraft:forest": "2025-08-29 21:26:42 +0000"
     },
     "done": false
+  },
+  "crossbowverhaul:recipes/combat/bolt_gold": {
+    "criteria": {
+      "has_ingot": "2025-08-29 21:35:33 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
@@ -188,6 +195,12 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-29 21:33:02 +0000"
     },
     "done": true
   },
@@ -239,6 +252,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-29 21:29:41 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-08-29 21:23:30 +0000"
@@ -248,6 +267,12 @@
   "comforts:hammock_cyan": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:23:30 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-08-29 21:35:27 +0000"
     },
     "done": true
   },
@@ -274,6 +299,12 @@
       "has_the_recipe": "2025-08-29 21:23:30 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-08-29 21:35:27 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
@@ -458,6 +489,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:23:30 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-08-29 21:35:35 +0000"
     },
     "done": true
   },

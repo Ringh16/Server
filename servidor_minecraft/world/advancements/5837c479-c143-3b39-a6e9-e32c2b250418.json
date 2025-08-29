@@ -163,9 +163,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-08-29 21:34:08 +0000",
       "minecraft:forest": "2025-08-29 21:27:39 +0000"
     },
     "done": false
+  },
+  "crossbowverhaul:recipes/combat/bolt_gold": {
+    "criteria": {
+      "has_feather": "2025-08-29 21:34:41 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
@@ -257,6 +264,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-08-29 21:37:30 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:23:54 +0000"
@@ -281,6 +294,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-08-29 21:37:30 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-08-29 21:23:54 +0000"
@@ -290,6 +309,12 @@
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:23:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-08-29 21:37:45 +0000"
     },
     "done": true
   },
@@ -320,6 +345,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:23:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-08-29 21:28:57 +0000"
     },
     "done": true
   },
@@ -479,6 +510,12 @@
     },
     "done": true
   },
+  "crossbowverhaul:recipes/combat/bolt_diamond": {
+    "criteria": {
+      "has_feather": "2025-08-29 21:34:41 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:23:54 +0000"
@@ -507,6 +544,12 @@
     "criteria": {
       "has_blazepowder": "2025-08-29 21:23:54 +0000",
       "has_bolt": "2025-08-29 21:23:54 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_feather": "2025-08-29 21:34:41 +0000"
     },
     "done": true
   },

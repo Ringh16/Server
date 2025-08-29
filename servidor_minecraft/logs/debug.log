@@ -18789,3 +18789,85 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Aug2025 21:30:38.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=87, z=-2} BlockPos{x=4, y=87, z=-2}
 [29Aug2025 21:30:44.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported Remitid to xtralexxD]
 [29Aug2025 21:30:48.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Set own game mode to Creative Mode]
+[29Aug2025 21:31:47.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cbuenorey has made the advancement [Getting an Upgrade]
+[29Aug2025 21:31:50.623] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[29Aug2025 21:31:59.513] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Aug2025 21:31:59.513] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Aug2025 21:31:59.934] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[29Aug2025 21:31:59.934] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[29Aug2025 21:33:01.934] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[29Aug2025 21:33:01.935] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[29Aug2025 21:33:01.935] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[29Aug2025 21:33:01.948] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[29Aug2025 21:33:01.948] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[29Aug2025 21:33:01.949] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[29Aug2025 21:33:01.950] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[29Aug2025 21:33:01.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 21:33:01.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 21:33:30.471] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$b3dd478fcec64647b6ae6603f7112d86 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[29Aug2025 21:33:43.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Set own game mode to Survival Mode]
+[29Aug2025 21:34:10.983] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[29Aug2025 21:34:22.233] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[29Aug2025 21:35:18.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cbuenorey has made the advancement ['X' Marks the Spot]
+[29Aug2025 21:35:18.901] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.PiglinAiMixin from saturn.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[29Aug2025 21:35:18.901] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from hordes.mixin.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[29Aug2025 21:35:18.902] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[29Aug2025 21:35:19.663] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Aug2025 21:35:19.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar has made the advancement ['X' Marks the Spot]
+[29Aug2025 21:35:27.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement ['X' Marks the Spot]
+[29Aug2025 21:35:33.084] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=27, y=63, z=220} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 21:35:33.085] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=27, y=63, z=220}
+[29Aug2025 21:35:33.085] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=28, y=63, z=219} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 21:35:33.085] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=28, y=63, z=219}
+[29Aug2025 21:35:33.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=30, y=63, z=218} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 21:35:33.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=30, y=63, z=218}
+[29Aug2025 21:35:33.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=31, y=63, z=214} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 21:35:33.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=31, y=63, z=214}
+[29Aug2025 21:35:33.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=31, y=63, z=215} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 21:35:33.087] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=31, y=63, z=215}
+[29Aug2025 21:35:33.091] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=32, y=63, z=217} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 21:35:33.091] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=32, y=63, z=217}
+[29Aug2025 21:35:33.551] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-195, y=63, z=218} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 21:35:33.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-195, y=63, z=218}
+[29Aug2025 21:35:33.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-193, y=63, z=217} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 21:35:33.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-193, y=63, z=217}
+[29Aug2025 21:35:33.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-193, y=63, z=219} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 21:35:33.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-193, y=63, z=219}
+[29Aug2025 21:35:33.566] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-31, y=63, z=208} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 21:35:33.566] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-31, y=63, z=208}
+[29Aug2025 21:35:35.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Connecting]
+[29Aug2025 21:35:51.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar has made the advancement [Sweet Dreams]
+[29Aug2025 21:36:04.270] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[29Aug2025 21:36:58.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar froze to death
+[29Aug2025 21:36:59.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 21:36:59.678] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 21:37:30.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid has made the advancement ['X' Marks the Spot]
+[29Aug2025 21:37:45.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid has made the advancement [Crops of the Wild]
+[29Aug2025 21:38:01.942] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[29Aug2025 21:38:01.943] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[29Aug2025 21:38:01.944] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[29Aug2025 21:38:01.945] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[29Aug2025 21:38:01.946] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[29Aug2025 21:38:01.947] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[29Aug2025 21:38:01.949] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[29Aug2025 21:38:01.959] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[29Aug2025 21:38:01.961] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[29Aug2025 21:38:01.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 21:38:02.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 21:38:39.613] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Aug2025 21:39:36.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NWAskar> :monka_gun::monka_gun::monka_gun::monka_gun::monka_gun:
+[29Aug2025 21:39:40.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid has made the advancement [Diamonds!]
+[29Aug2025 21:39:42.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xtralexxD> :peped::peped::peped::peped::peped:
+[29Aug2025 21:39:43.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NWAskar> :blobcatninja::blobcatnight::blobcatneutral::blobcatnerd::blobcatnerd::blobcatnauseated::blobcatgoogly:
+[29Aug2025 21:39:45.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid has made the advancement [Acquire Hardware]
+[29Aug2025 21:39:56.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to cbuenorey]
+[29Aug2025 21:39:57.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NWAskar> zabdiel :monkey:
+[29Aug2025 21:40:20.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid has made the advancement [Isn't It Iron Pick]
+[29Aug2025 21:40:31.757] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-321, y=63, z=88} but found not block entity block Block{minecraft:water}[level=7] at location
+[29Aug2025 21:40:31.758] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=7] but failed at location BlockPos{x=-321, y=63, z=88}
+[29Aug2025 21:40:32.138] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[29Aug2025 21:41:06.180] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[29Aug2025 21:41:30.492] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of xtralexxD: {disabled=true, disconnected=false, uuid=53407af1-05c9-37ae-8d17-2fbf496f58b4, name=xtralexxD, group=null}
+[29Aug2025 21:41:59.563] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Aug2025 21:41:59.563] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Aug2025 21:42:44.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cbuenorey has made the advancement [Crops of the Wild]
