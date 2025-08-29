@@ -1,0 +1,17 @@
+{
+	id: "06d198ff-b473-3f52-b165-234fd92de410"
+	type: "player"
+	player_name: "cbuenorey"
+	ranks: {
+		06d198ff-b473-3f52-b165-234fd92de410: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "cbuenorey"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59DFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "5837c479-c143-3b39-a6e9-e32c2b250418"
+	type: "player"
+	player_name: "Remitid"
+	ranks: {
+		5837c479-c143-3b39-a6e9-e32c2b250418: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Remitid"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFB359"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
