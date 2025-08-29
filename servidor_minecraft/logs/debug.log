@@ -19183,3 +19183,251 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Aug2025 22:23:02.081] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-136
 [29Aug2025 22:23:02.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Aug2025 22:23:02.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 22:23:06.625] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=50, y=63, z=376} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:06.626] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=50, y=63, z=376}
+[29Aug2025 22:23:06.626] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=51, y=63, z=369} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:06.626] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=51, y=63, z=369}
+[29Aug2025 22:23:06.626] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=51, y=63, z=376} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:06.626] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=51, y=63, z=376}
+[29Aug2025 22:23:08.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-153, y=63, z=382} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:08.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-153, y=63, z=382}
+[29Aug2025 22:23:08.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-151, y=63, z=383} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:08.526] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-151, y=63, z=383}
+[29Aug2025 22:23:10.332] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-153, y=63, z=384} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:10.333] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-153, y=63, z=384}
+[29Aug2025 22:23:10.333] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-152, y=63, z=385} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:10.333] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-152, y=63, z=385}
+[29Aug2025 22:23:16.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD was slain by Zombie
+[29Aug2025 22:23:18.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:23:18.366] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:23:19.054] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-46, y=63, z=457} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:19.054] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-46, y=63, z=457}
+[29Aug2025 22:23:19.059] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-50, y=63, z=461} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:19.059] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-50, y=63, z=461}
+[29Aug2025 22:23:19.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-115, y=63, z=453} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:19.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-115, y=63, z=453}
+[29Aug2025 22:23:19.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-114, y=63, z=451} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:19.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-114, y=63, z=451}
+[29Aug2025 22:23:23.522] [Worker-Main5/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, 1]
+[29Aug2025 22:23:23.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to cbuenorey]
+[29Aug2025 22:23:24.715] [Worker-Main4/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, 1]
+[29Aug2025 22:23:31.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-163, y=63, z=378} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:31.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-163, y=63, z=378}
+[29Aug2025 22:23:31.906] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-101, y=63, z=528} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:31.906] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-101, y=63, z=528}
+[29Aug2025 22:23:36.187] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-97, y=63, z=544} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:36.187] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-97, y=63, z=544}
+[29Aug2025 22:23:41.824] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-33, y=63, z=579} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:41.825] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-33, y=63, z=579}
+[29Aug2025 22:23:52.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-17, y=64, z=647} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:52.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-17, y=64, z=647}
+[29Aug2025 22:23:54.365] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-6, y=65, z=656} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:54.365] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-6, y=65, z=656}
+[29Aug2025 22:23:57.369] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=178, y=63, z=677} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:23:57.369] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=178, y=63, z=677}
+[29Aug2025 22:24:03.077] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-54, y=63, z=706} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:24:03.077] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-54, y=63, z=706}
+[29Aug2025 22:24:03.078] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-52, y=63, z=707} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:24:03.078] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-52, y=63, z=707}
+[29Aug2025 22:24:03.078] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-58, y=64, z=704} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:24:03.078] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-58, y=64, z=704}
+[29Aug2025 22:24:03.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-58, y=64, z=706} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:24:03.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-58, y=64, z=706}
+[29Aug2025 22:24:05.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar has made the advancement [Getting an Upgrade]
+[29Aug2025 22:24:15.013] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-175, y=64, z=771} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:24:15.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-175, y=64, z=771}
+[29Aug2025 22:24:16.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD was slain by Zombie
+[29Aug2025 22:24:17.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:24:17.695] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:24:21.810] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of xtralexxD: {disabled=false, disconnected=false, uuid=53407af1-05c9-37ae-8d17-2fbf496f58b4, name=xtralexxD, group=null}
+[29Aug2025 22:24:24.040] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-163, y=63, z=821} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:24:24.040] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-163, y=63, z=821}
+[29Aug2025 22:24:24.040] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-161, y=63, z=819} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:24:24.040] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-161, y=63, z=819}
+[29Aug2025 22:24:24.041] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-172, y=63, z=821} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:24:24.041] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-172, y=63, z=821}
+[29Aug2025 22:24:24.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to 3.500000, 65.500000, -211.500000]
+[29Aug2025 22:24:32.708] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-124, y=64, z=861} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:24:32.708] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-124, y=64, z=861}
+[29Aug2025 22:24:34.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Runner
+[29Aug2025 22:24:36.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:24:36.055] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:24:36.248] [IO-Worker-136/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[29Aug2025 22:25:19.913] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Aug2025 22:25:39.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-419, y=63, z=102} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:25:39.510] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-419, y=63, z=102}
+[29Aug2025 22:25:45.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Zombie Chicken
+[29Aug2025 22:25:47.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:25:47.037] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:25:59.244] [Worker-Main13/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, 0]
+[29Aug2025 22:26:00.255] [Worker-Main24/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, -1]
+[29Aug2025 22:26:16.654] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[29Aug2025 22:26:44.713] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[29Aug2025 22:26:44.713] [IO-Worker-138/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[29Aug2025 22:26:59.794] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-289, y=63, z=349} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[29Aug2025 22:26:59.795] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-289, y=63, z=349}
+[29Aug2025 22:28:01.970] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, 0] Saved.
+[29Aug2025 22:28:01.971] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[29Aug2025 22:28:01.971] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[29Aug2025 22:28:01.972] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[29Aug2025 22:28:01.972] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
+[29Aug2025 22:28:01.973] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -1] Saved.
+[29Aug2025 22:28:01.973] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[29Aug2025 22:28:01.975] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[29Aug2025 22:28:01.976] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 1] Saved.
+[29Aug2025 22:28:01.976] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 1] Saved.
+[29Aug2025 22:28:01.976] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[29Aug2025 22:28:01.977] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
+[29Aug2025 22:28:01.995] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-144
+[29Aug2025 22:28:01.998] [IO-Worker-141/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-145
+[29Aug2025 22:28:02.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 22:28:02.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 22:28:09.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid died from dehydration
+[29Aug2025 22:28:11.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:28:11.871] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:28:39.863] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Aug2025 22:28:51.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid has made the advancement [Disme A Dozen]
+[29Aug2025 22:29:48.509] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=false, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.005] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=true, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.006] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=false, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.049] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=true, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.049] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=false, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.083] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=true, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.140] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=false, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.182] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=true, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.182] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=false, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.229] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=true, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.277] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=false, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.318] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=true, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.361] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=false, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.361] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=true, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.396] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=false, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.447] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=true, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.504] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=false, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.504] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=true, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.549] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=false, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:49.549] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of cbuenorey: {disabled=true, disconnected=false, uuid=06d198ff-b473-3f52-b165-234fd92de410, name=cbuenorey, group=null}
+[29Aug2025 22:29:53.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Runner
+[29Aug2025 22:29:53.181] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Aug2025 22:29:53.181] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 8 is dual wielding: false
+[29Aug2025 22:29:53.182] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 book
+[29Aug2025 22:29:53.182] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[29Aug2025 22:29:53.182] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[29Aug2025 22:29:54.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:29:54.253] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:30:45.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:30:46.539] [IO-Worker-143/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-146
+[29Aug2025 22:30:46.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:30:46.657] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:31:59.763] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Aug2025 22:31:59.763] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Aug2025 22:32:20.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:32:22.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:32:22.109] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:32:28.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by The Wheezer
+[29Aug2025 22:32:29.443] [IO-Worker-143/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-147
+[29Aug2025 22:32:29.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:32:29.583] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:33:02.172] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[29Aug2025 22:33:02.173] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[29Aug2025 22:33:02.174] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-148
+[29Aug2025 22:33:02.190] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-149
+[29Aug2025 22:33:02.191] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
+[29Aug2025 22:33:02.192] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-151
+[29Aug2025 22:33:02.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 22:33:02.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 22:33:36.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Husk
+[29Aug2025 22:33:37.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:33:37.402] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:34:00.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Acquire Hardware]
+[29Aug2025 22:34:10.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cbuenorey has made the advancement [Disme A Dozen]
+[29Aug2025 22:34:11.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cbuenorey has made the advancement [Diamonds!]
+[29Aug2025 22:34:28.034] [Worker-Main15/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, 1]
+[29Aug2025 22:34:36.499] [IO-Worker-151/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-152
+[29Aug2025 22:34:49.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Diamonds!]
+[29Aug2025 22:34:58.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cbuenorey has made the advancement [Acquire Hardware]
+[29Aug2025 22:35:19.914] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Aug2025 22:35:41.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:35:42.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:35:42.830] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:35:48.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar has made the advancement [Crops of the Wild]
+[29Aug2025 22:36:01.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD has made the advancement [Stone Age]
+[29Aug2025 22:36:21.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Husk
+[29Aug2025 22:36:22.960] [IO-Worker-151/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-153
+[29Aug2025 22:36:23.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:36:23.044] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:36:27.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Husk
+[29Aug2025 22:36:28.785] [IO-Worker-151/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-154
+[29Aug2025 22:36:29.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:36:29.092] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:36:29.098] [IO-Worker-151/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-155
+[29Aug2025 22:36:35.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cbuenorey was slain by Zombie
+[29Aug2025 22:36:37.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:36:37.647] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:36:40.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Husk
+[29Aug2025 22:36:41.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:36:41.968] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:37:28.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Husk
+[29Aug2025 22:37:29.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:37:29.752] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:37:34.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: The difficulty has been set to Normal]
+[29Aug2025 22:37:57.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xtralexxD froze to death
+[29Aug2025 22:37:59.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:37:59.345] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:38:01.958] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, 1] Saved.
+[29Aug2025 22:38:01.959] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[29Aug2025 22:38:01.960] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-156
+[29Aug2025 22:38:01.961] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[29Aug2025 22:38:01.962] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 1] Saved.
+[29Aug2025 22:38:01.976] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-157
+[29Aug2025 22:38:01.976] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-158
+[29Aug2025 22:38:01.977] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-159
+[29Aug2025 22:38:01.977] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-160
+[29Aug2025 22:38:01.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 22:38:02.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 22:38:04.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported xtralexxD to 149.500000, 102.500000, -266.500000]
+[29Aug2025 22:38:15.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:38:16.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:38:16.641] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:38:38.213] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[29Aug2025 22:38:39.913] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Aug2025 22:39:29.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:39:31.194] [IO-Worker-159/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-161
+[29Aug2025 22:39:31.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:39:31.543] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:39:51.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [xtralexxD: Teleported cbuenorey to xtralexxD]
+[29Aug2025 22:40:16.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid has made the advancement [Monster Hunter]
+[29Aug2025 22:40:40.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:40:40.885] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Aug2025 22:40:40.885] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[29Aug2025 22:40:40.885] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[29Aug2025 22:40:40.885] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[29Aug2025 22:40:40.885] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[29Aug2025 22:40:41.736] [IO-Worker-160/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-162
+[29Aug2025 22:40:41.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:40:41.954] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:41:08.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Zombie
+[29Aug2025 22:41:09.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:41:09.272] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:41:42.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Remitid was slain by Zombie
+[29Aug2025 22:41:44.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:41:44.083] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:41:59.813] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Aug2025 22:41:59.813] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Aug2025 22:42:13.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NWAskar was slain by Runner
+[29Aug2025 22:42:15.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Aug2025 22:42:15.086] [Server thread/INFO] [tac/]: PENDING
+[29Aug2025 22:42:56.443] [IO-Worker-158/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[29Aug2025 22:42:56.443] [IO-Worker-161/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[29Aug2025 22:43:01.945] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, 0] Saved.
+[29Aug2025 22:43:01.946] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[29Aug2025 22:43:01.947] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-165
+[29Aug2025 22:43:01.947] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-166
+[29Aug2025 22:43:01.948] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[29Aug2025 22:43:01.949] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-167
+[29Aug2025 22:43:01.962] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-169
+[29Aug2025 22:43:01.962] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-168
+[29Aug2025 22:43:01.962] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
+[29Aug2025 22:43:01.962] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-171
+[29Aug2025 22:43:01.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 22:43:01.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

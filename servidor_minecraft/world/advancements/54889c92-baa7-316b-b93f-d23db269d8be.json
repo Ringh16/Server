@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-08-29 22:35:48 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:24:23 +0000"
@@ -166,6 +172,12 @@
       "has_the_recipe": "2025-08-29 21:24:23 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-08-29 22:38:54 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
@@ -597,6 +609,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-29 22:24:05 +0000"
     },
     "done": true
   },
