@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-08-29 21:48:24 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:23:38 +0000"
@@ -399,6 +405,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-29 21:56:15 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:23:38 +0000"
@@ -497,7 +509,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:husk": "2025-08-29 21:47:37 +0000"
+      "minecraft:husk": "2025-08-29 21:47:37 +0000",
+      "minecraft:zombie": "2025-08-29 21:50:30 +0000"
     },
     "done": false
   },

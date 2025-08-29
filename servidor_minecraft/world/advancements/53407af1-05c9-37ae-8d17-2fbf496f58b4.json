@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-29 21:53:07 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-08-29 21:23:30 +0000"
@@ -367,7 +373,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "coniferous_forest": "2025-08-29 21:23:30 +0000"
+      "coniferous_forest": "2025-08-29 21:23:30 +0000",
+      "snowy_fir_clearing": "2025-08-29 21:48:37 +0000"
     },
     "done": false
   },
@@ -377,6 +384,7 @@
       "minecraft:frozen_river": "2025-08-29 21:39:57 +0000",
       "minecraft:river": "2025-08-29 21:34:22 +0000",
       "minecraft:snowy_plains": "2025-08-29 21:39:59 +0000",
+      "minecraft:snowy_taiga": "2025-08-29 21:48:26 +0000",
       "minecraft:forest": "2025-08-29 21:26:42 +0000"
     },
     "done": false
@@ -494,6 +502,12 @@
       "minecraft:zombie": "2025-08-29 21:44:03 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-08-29 21:51:26 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_green_from_white": {
     "criteria": {
