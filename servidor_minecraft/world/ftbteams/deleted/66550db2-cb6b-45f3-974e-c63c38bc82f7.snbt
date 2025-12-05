@@ -1,0 +1,17 @@
+{
+	id: "66550db2-cb6b-45f3-974e-c63c38bc82f7"
+	type: "party"
+	owner: "72d668ae-df82-359d-94fe-133440c699d7"
+	ranks: {
+		72d668ae-df82-359d-94fe-133440c699d7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "chamitos"
+		"ftbteams:description": "chamo pero tu ta loco"
+		"ftbteams:color": "#841F99"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1764902339210L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"WhatTheCat_\"}]}" }]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "a7c45d01-9d1f-3dd4-a293-e6cf1b9b3b25"
+	type: "player"
+	player_name: "XeyK"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "XeyK"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7859FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,13 @@
+[04:30:13] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[04:30:13] [INIT] Loaded plugins:
+[04:30:13] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[04:30:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[04:30:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[04:30:13] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[04:30:14] [INFO] Loaded script server_scripts:boss_teleport_locator.js in 0.014 s
+[04:30:14] [INFO] Loaded script server_scripts:return_script.js in 0.011 s
+[04:30:14] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[04:30:14] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[04:30:14] [INFO] Loaded 3/3 KubeJS server scripts in 0.045 s with 0 errors and 0 warnings
+[04:30:14] [INFO] Scripts loaded
+[04:30:29] [INFO] Server resource reload complete!

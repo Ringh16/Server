@@ -1,0 +1,15 @@
+{
+	id: "72d668ae-df82-359d-94fe-133440c699d7"
+	type: "player"
+	player_name: "WhatTheCat_"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "WhatTheCat_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CAFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
