@@ -1,0 +1,39 @@
+[02:26:54.365][INFO]: Successfully injected RecipeFS file system
+[02:26:54.427][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[02:26:54.428][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[02:26:54.455][INFO]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[02:26:55.433][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[02:26:55.434][INFO]: - 'aether' at version '1.19.2-1.4.2-forge'
+[02:26:55.434][INFO]: - 'aquaculture' at version '1.19.2-2.4.17'
+[02:26:55.434][INFO]: - 'crafttweaker' at version '10.1.56'
+[02:26:55.434][INFO]: - 'farmersdelight' at version '1.19.2-1.2.4'
+[02:26:55.434][INFO]: - 'gamestages' at version '11.1.4'
+[02:26:55.434][INFO]: - 'itemstages' at version '5.1.4'
+[02:27:10.924][INFO]: Started loading scripts for loader 'initialize'
+[02:27:11.631][INFO]: Compiling and executing scripts
+[02:27:11.690][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[02:27:11.856][INFO]: Execution for loader 'initialize' completed successfully
+[02:27:26.721][INFO]: Started loading scripts for loader 'tags'
+[02:27:26.747][INFO]: Compiling and executing scripts
+[02:27:26.763][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[02:27:26.774][INFO]: Execution for loader 'tags' completed successfully
+[02:27:34.740][INFO]: Started loading scripts for loader 'crafttweaker'
+[02:27:34.765][INFO]: Compiling and executing scripts
+[02:27:35.375][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[02:27:35.380][INFO]: Loading file 'Cisco.zs' with priority 0
+[02:27:35.412][INFO]: Hello world!
+[02:27:35.416][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_chestplate' that outputs: '<item:dreadsteel:dreadsteel_chestplate>'
+[02:27:35.416][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_helmet' that outputs: '<item:dreadsteel:dreadsteel_helmet>'
+[02:27:35.417][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_boots' that outputs: '<item:dreadsteel:dreadsteel_boots>'
+[02:27:35.417][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_leggings' that outputs: '<item:dreadsteel:dreadsteel_leggings>'
+[02:27:35.417][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dreadsteel_ingot_recipe' that outputs: '<item:dreadsteel:dreadsteel_ingot>'
+[02:27:35.418][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dreadsteel_scythe_recipe' that outputs: '<item:dreadsteel:dreadsteel_scythe>'
+[02:27:35.418][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dreadsteel_shield_recipe' that outputs: '<item:dreadsteel:dreadsteel_shield>'
+[02:27:35.418][INFO]: Removing "minecraft:crafting" recipes with modid: "dreadsteel"
+[02:27:35.421][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:amnesia_scroll' that outputs: '<item:skilltree:amnesia_scroll>'
+[02:27:35.421][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:true_dragons_breath' that outputs: '<item:cisco_mod:true_dragons_breath>'
+[02:27:35.424][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:rogue_eye' that outputs: '<item:endrem:rogue_eye>.withTag({Damage: 0})'
+[02:27:35.424][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:undead_soul' that outputs: '<item:endrem:undead_soul>'
+[02:27:35.425][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:demonium_ingot_recipe' that outputs: '<item:cisco_mod:demonium_ingot>'
+[02:27:35.425][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:frigidium_ingot_recipe' that outputs: '<item:cisco_mod:frigidiumingot>'
+[02:27:35.425][INFO]: Execution for loader 'crafttweaker' completed successfully

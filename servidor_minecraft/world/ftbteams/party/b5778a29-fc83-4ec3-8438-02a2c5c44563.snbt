@@ -1,0 +1,33 @@
+{
+	id: "b5778a29-fc83-4ec3-8438-02a2c5c44563"
+	type: "party"
+	owner: "53407af1-05c9-37ae-8d17-2fbf496f58b4"
+	ranks: {
+		53407af1-05c9-37ae-8d17-2fbf496f58b4: "owner"
+		cada483e-d3ee-3d1b-add0-3e6289a6afaf: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "LosMiaus"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7BFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1782359037227L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"xtralexxD\"}]}" }
+		{ from: "53407af1-05c9-37ae-8d17-2fbf496f58b4", date: 1782359054004L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Giuli_16\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1782359057978L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Giuli_16\"}]}" }
+	]
+	extra: { }
+}
