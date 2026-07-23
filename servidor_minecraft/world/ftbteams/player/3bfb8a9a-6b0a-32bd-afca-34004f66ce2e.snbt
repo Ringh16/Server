@@ -1,0 +1,17 @@
+{
+	id: "3bfb8a9a-6b0a-32bd-afca-34004f66ce2e"
+	type: "player"
+	player_name: "Gnar1705"
+	ranks: {
+		3bfb8a9a-6b0a-32bd-afca-34004f66ce2e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Gnar1705"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5F59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
